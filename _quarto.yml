@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "meditations"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/0xAurelius
+      - icon: twitter
+        href: https://twitter.com/0xKlimaurelius
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+execute:
+  freeze: auto

@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/0xKlimaurelius
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/0xAurelius
+
+---
+
+_Observations of a Pragmatic Philosopher_
+
+See my first post for background on me as a person and the origins of this blog.
