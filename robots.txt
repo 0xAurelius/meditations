@@ -1,1 +1,1 @@
-Sitemap: git@github-aurelius:0xAurelius/meditations.git/sitemap.xml
+Sitemap: https://github.com/0xAurelius/meditations/sitemap.xml
