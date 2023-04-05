@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "speaking.html",
+    "href": "speaking.html",
+    "title": "Speaking",
+    "section": "",
+    "text": "I love speaking to diverse audiences about both big ideas and the specific projects I am working on. I can give short, punchy 10 minute presentations that concisely communicate complex concepts, as well as longer presentations that dig deep and provide enough history and context to fill an hour.\nSome of my previous apperances include multiple Schelling Points (Denver, Amsterdam, Bogota) and Sustainable Blockchain Summits (Paris, Bogota, Boston), as well as DeFiDay Amsterdam, ETHPorto and DeFiCon NYC. I have also appeared on podcasts such as Greenpill and Quorum.\nFrom crowded conference halls to intimate gatherings of builders and intellectuals, I’ve delivered lectures, facilitated roundtables, and appeared on numerous panels. Here’s a playlist on YouTube with most of my recorded speaking engagements, or see this tag on this blog for some past talks I’ve highlighted.\nI also enjoy mentoring and judging hackathons, having mentored at ETHBogota and ETHDenver, as well as mentored and judged at Good Hack NYC.\nI’d love to work together on your next event!\nFor personal appearances at events or on podcasts, please reach out to me via email (marcus_aurelius_0x@proton.me) or direct message on Twitter.\nFor requests related to KlimaDAO, please email marcus@klimadao.finance and include press@klimadao.finance under cc."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Observations of a Pragmatic Philosopher\nSee my first post for background on me as a person and the origins of this blog."
+    "text": "Observations of a Pragmatic Philosopher\nCollection of musings on my personal journey and observations about the organizations and communities in which I operate.\nSee my first post for background on me as a person and the origins of this blog.\nNOTE: all posts are living documents and may be updated for accuracy and completeness after posting."
   },
   {
     "objectID": "posts/pseudo-anon-cred/index.html",
@@ -18,7 +25,7 @@
     "href": "posts/welcome/index.html",
     "title": "The Boy Who Would Be Core",
     "section": "",
-    "text": "The Hero’s Journey\n\n\nWhile I will carefully maintain the consistency of which identity is tied to which projects, I will use this blog as a place to make observations as a whole person - which may occassionally blur the line between my personas."
+    "text": "The Hero’s Journey\n\n\n\n“Only those who do not seek power are qualified to hold it.” - Plato\n\n\nHumble Beginnings, Great Expectations\n\n\nLeaving the Ordinary World Behind\nIt was just another Monday evening watching the latest Bankless episode on YouTube, but the more I heard the more I realized this was not just another crypto project. Later that night I was pouring over the documentation and Discord, considering whether to put some of my own money at risk to support the project. This is what I’d been looking for: an opportunity to use my capital and skills to make a difference.\nBut things were not all sunny in paradise.\nIn the lead up to launch, there were many concerned and confused Klimates. I was quickly deputized as a moderator for my early work answering questions and helping people troubleshoot issues. The Core Team was busy and pulled in a million directions, so I did my best to keep the Discord under control, building Discord bots for Q/A and common metrics people were constantly asking for.\nLaunch was the most intense 48 hours of my life. We were on a voice chat for 16 hours straight, squashed bug after bug, and addressed hundreds of individual questions and issues.\nIn the wake of the launch, there were suddenly hundreds of people volunteering to contribute to the DAO.\nAround November or December, the Core Team first offered me to come aboard as a Core Contributor. At first I rejected the call to adventure, worried about the risk and instability of leaving my comfortable corporate AdTech data engineering gig to run my own company and provide services to a DAO.\nBut in the end my old company got acquired at just the right moment to give me a little cash and a good reason to move on to a new adventure.\n\n\nDocumenting the Adventure\nWhile I will carefully maintain the consistency of which identity is tied to which projects, I will use this blog as a place to make observations as a whole person - which may occassionally blur the line between my personas."
   },
   {
     "objectID": "index.html",
