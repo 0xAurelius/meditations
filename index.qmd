@@ -1,12 +1,30 @@
 ---
-title: "Meditations"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Marcus Aurelius"
+image: pfp.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/0xKlimaurelius
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/0xAurelius
+
 ---
+
+## **_Meditations of a Pragmatic Philosopher_**
+
+In the spirit of my pseudonymous namesake's original
+[Meditations](https://en.wikipedia.org/wiki/Meditations), this site features
+a [collection of musings](/blog.html) about my personal journey, as well as
+observations about the organizations and communities in which I operate.
+
+See [this post](/posts/personal-journey/) for more about my background and the
+origins of this blog.
+
+_NOTE: all posts are living documents and may be updated for accuracy and_
+_completeness after original posting._

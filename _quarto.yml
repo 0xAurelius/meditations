@@ -9,10 +9,11 @@ website:
   favicon: pfp.png
   repo-url: https://github.com/0xAurelius/meditations
   open-graph:
-    site-name: Meditations of Marcus Aurelius
+    site-name: Meditations | Marcus Aurelius
   navbar:
     right:
-      - about.qmd
+      - text: Journal
+        href: blog.qmd
       - speaking.qmd
       - icon: github
         href: https://github.com/0xAurelius
