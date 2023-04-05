@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Meditations</title>
+<title>Meditations - Marcus Aurelius</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,12 +31,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./pfp.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -63,45 +60,18 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Meditations">
-<meta property="og:image" content="https://github.com/0xAurelius/meditations/posts/welcome/thumbnail.jpg">
-<meta property="og:site-name" content="Meditations of Marcus Aurelius">
+<meta property="og:title" content="Meditations - Marcus Aurelius">
+<meta property="og:description" content="In the spirit of my pseudonymous namesake’s original Meditations, this site features a collection of musings about my personal journey, as well as observations about the organizations and…">
+<meta property="og:image" content="https://github.com/0xAurelius/meditations/pfp.png">
+<meta property="og:site-name" content="Meditations | Marcus Aurelius">
+<meta property="og:image:height" content="359">
+<meta property="og:image:width" content="359">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -118,8 +88,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./blog.html">
+ <span class="menu-text">Journal</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./speaking.html">
@@ -145,248 +115,43 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Meditations</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="journey">journey <span class="quarto-category-count">(1)</span></div><div class="category" data-category="klimadao">klimadao <span class="quarto-category-count">(4)</span></div><div class="category" data-category="panels">panels <span class="quarto-category-count">(1)</span></div><div class="category" data-category="playgrounds">playgrounds <span class="quarto-category-count">(1)</span></div><div class="category" data-category="principles">principles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="speaking">speaking <span class="quarto-category-count">(3)</span></div><div class="category" data-category="talks">talks <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<div class="quarto-about-jolla">
+  <img src="pfp.png" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Marcus Aurelius</h1>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header><main class="content" id="quarto-document-content">
+<section id="meditations-of-a-pragmatic-philosopher" class="level2">
+<h2 data-anchor-id="meditations-of-a-pragmatic-philosopher"><strong><em>Meditations of a Pragmatic Philosopher</em></strong></h2>
+<p>In the spirit of my pseudonymous namesake’s original <a href="https://en.wikipedia.org/wiki/Meditations">Meditations</a>, this site features a <a href="./blog.html">collection of musings</a> about my personal journey, as well as observations about the organizations and communities in which I operate.</p>
+<p>See <a href="./posts/personal-journey/">this post</a> for more about my background and the origins of this blog.</p>
+<p><em>NOTE: all posts are living documents and may be updated for accuracy and</em> <em>completeness after original posting.</em></p>
 
 
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="journey,klimadao" data-listing-date-sort="1680220800000" data-listing-file-modified-sort="1680717833732" data-listing-reading-time-sort="1.605">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/thumbnail.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/welcome/index.html">
-<h3 class="no-anchor listing-title">
-The Boy Who Would Be Core
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('journey'); return false;">
-journey
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('klimadao'); return false;">
-klimadao
+</section>
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://twitter.com/0xKlimaurelius" class="about-link">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://github.com/0xAurelius" class="about-link">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
 </div>
 </div>
-<a href="./posts/welcome/index.html">
-<div class="listing-description">
-“Only those who do not seek power are qualified to hold it.” - Plato
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html">
-<div class="listing-date">
-Mar 31, 2023
-</div>
-<div class="listing-author">
-Marcus Aurelius
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="principles,playgrounds" data-listing-date-sort="1680220800000" data-listing-file-modified-sort="1680717833716" data-listing-reading-time-sort="0.445">
-<div class="thumbnail">
-<p><a href="./posts/pseudo-anon-cred/index.html"> <img src="./posts/pseudo-anon-cred/image.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/pseudo-anon-cred/index.html">
-<h3 class="no-anchor listing-title">
-Pseudonymity vs.&nbsp;Anonymity in the Struggle to Overcome Credentialism
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('principles'); return false;">
-principles
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('playgrounds'); return false;">
-playgrounds
-</div>
-</div>
-<a href="./posts/pseudo-anon-cred/index.html">
-<div class="listing-description">
-Differentiate between pseudo and anon, explain different motivations for each, delve into personal motivations for choosing to be pseudo on…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/pseudo-anon-cred/index.html">
-<div class="listing-date">
-Mar 31, 2023
-</div>
-<div class="listing-author">
-Marcus Aurelius
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="speaking,talks,klimadao" data-listing-date-sort="1666396800000" data-listing-file-modified-sort="1680717833716" data-listing-reading-time-sort="0.195">
-<div class="thumbnail">
-<p><a href="./posts/sbs-bogota-demand/index.html"> <img src="./posts/sbs-bogota-demand/video-grab.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/sbs-bogota-demand/index.html">
-<h3 class="no-anchor listing-title">
-Novel Demand Generation Talk @ Sustainable Blockchain Summit 2022 in Bogota
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('speaking'); return false;">
-speaking
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('klimadao'); return false;">
-klimadao
-</div>
-</div>
-<a href="./posts/sbs-bogota-demand/index.html">
-<div class="listing-description">
-
-Marcus Aurelius at TFF Generation Fest 2022 from Thought For Food on Vimeo.
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/sbs-bogota-demand/index.html">
-<div class="listing-date">
-Oct 22, 2022
-</div>
-<div class="listing-author">
-Marcus Aurelius
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="speaking,talks,klimadao" data-listing-date-sort="1664582400000" data-listing-file-modified-sort="1680717833724" data-listing-reading-time-sort="0.595">
-<div class="thumbnail">
-<p><a href="./posts/thought-for-food-nyc-22/index.html"> <img src="./posts/thought-for-food-nyc-22/video-grab.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/thought-for-food-nyc-22/index.html">
-<h3 class="no-anchor listing-title">
-Building the Next Generation of Market-Based Climate Action
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('speaking'); return false;">
-speaking
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('klimadao'); return false;">
-klimadao
-</div>
-</div>
-<a href="./posts/thought-for-food-nyc-22/index.html">
-<div class="listing-description">
-
-Marcus Aurelius at TFF Generation Fest 2022 from Thought For Food on Vimeo.
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/thought-for-food-nyc-22/index.html">
-<div class="listing-date">
-Oct 1, 2022
-</div>
-<div class="listing-author">
-Marcus Aurelius
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="speaking,panels,klimadao" data-listing-date-sort="1651104000000" data-listing-file-modified-sort="1680717833700" data-listing-reading-time-sort="0.895">
-<div class="thumbnail">
-<p><a href="./posts/defiday-22-ponzinomics/index.html"> <img src="./posts/defiday-22-ponzinomics/video-grab.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/defiday-22-ponzinomics/index.html">
-<h3 class="no-anchor listing-title">
-Ponzinomics Debate @ DeFiDay 2022 in Amsterdam
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('speaking'); return false;">
-speaking
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('panels'); return false;">
-panels
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('klimadao'); return false;">
-klimadao
-</div>
-</div>
-<a href="./posts/defiday-22-ponzinomics/index.html">
-<div class="listing-description">
-I had a blast engaging in spirited debate with Seraphim (Euler Finance) and Frank (Oasis), two thoughtful and innovative DeFi builders.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/defiday-22-ponzinomics/index.html">
-<div class="listing-date">
-Apr 28, 2022
-</div>
-<div class="listing-author">
-Marcus Aurelius
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -522,13 +287,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
