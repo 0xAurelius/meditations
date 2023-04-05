@@ -1,18 +1,28 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
   title: "Meditations"
+  description: Observations of a Pragmatic Philosopher
+  favicon: pfp.png
+  repo-url: https://github.com/0xAurelius/meditations
+  open-graph:
+    site-name: Meditations of Marcus Aurelius
   navbar:
     right:
       - about.qmd
+      - speaking.qmd
       - icon: github
         href: https://github.com/0xAurelius
       - icon: twitter
         href: https://twitter.com/0xKlimaurelius
 format:
   html:
-    theme: pulse
+    theme:
+      light: pulse
+      dark: vapor
     css: styles.css
 
 execute:

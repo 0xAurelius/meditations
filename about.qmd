@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: pfp.png
 about:
   template: jolla
   links:
@@ -18,4 +18,9 @@ about:
 
 _Observations of a Pragmatic Philosopher_
 
+Collection of musings on my personal journey and observations about the
+organizations and communities in which I operate.
+
 See my first post for background on me as a person and the origins of this blog.
+
+_NOTE: all posts are living documents and may be updated for accuracy and completeness after posting._

@@ -7,6 +7,46 @@ categories: [journey, klimadao]
 
 ![The Hero's Journey](thumbnail.jpg)
 
+> "Only those who do not seek power are qualified to hold it." - Plato
+
+# Humble Beginnings, Great Expectations
+
+
+
+# Leaving the Ordinary World Behind
+
+It was just another Monday evening watching the [latest Bankless episode on YouTube](https://www.youtube.com/watch?v=uM5XX4AwEuI), but
+the more I heard the more I realized this was not just another crypto project.
+Later that night I was pouring over the documentation and Discord, considering
+whether to put some of my own money at risk to support the project. This is what
+I'd been looking for: an opportunity to use my capital and skills to make a difference.
+
+But things were not all sunny in paradise.
+
+In the lead up to launch, there were many concerned and confused Klimates. I
+was quickly deputized as a moderator for my early work answering questions and helping
+people troubleshoot issues. The Core Team was busy and pulled in a million directions,
+so I did my best to keep the Discord under control, building Discord bots for Q/A and
+common metrics people were constantly asking for.
+
+Launch was the most intense 48 hours of my life. We were on a voice chat for 16 hours straight,
+squashed bug after bug, and addressed hundreds of individual questions and issues.
+
+In the wake of the launch, there were suddenly hundreds of people volunteering
+to contribute to the DAO.
+
+Around November or December, the Core Team first offered me to come aboard as a
+Core Contributor. At first I rejected the call to adventure, worried about the
+risk and instability of leaving my comfortable corporate AdTech data engineering
+gig to run my own company and provide services to a DAO.
+
+But in the end my old company got acquired at just the right moment to give me
+a little cash and a good reason to move on to a new adventure.
+
+# Documenting the Adventure
+
+
+
 While I will carefully maintain the consistency of which identity is tied to which
 projects, I will use this blog as a place to make observations as a whole person -
 which may occassionally blur the line between my personas.
