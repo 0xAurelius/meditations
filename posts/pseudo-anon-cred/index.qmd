@@ -1,0 +1,34 @@
+---
+title: "Pseudonymity vs. Anonymity in the Struggle to Overcome Credentialism"
+author: "Marcus Aurelius"
+date: "2023-04-05"
+categories: [principles, playgrounds]
+image: "image.jpg"
+---
+
+Differentiate between pseudo and anon, explain different motivations for each,
+delve into personal motivations for choosing to be pseudo on KlimaDAO but to
+explicitly reveal my identity for Playgrounds (want to help Playgrounds succeed and my data science and data engineering credentials are beneficial in that context)
+
+The idea is not to buy into the entrenched credentialist system and take advantage of prestige or connections,
+but rather to recognize the pragmatic need to leverage credentials where relevant/appropriate,
+while not relying on them in place of demonstrating your merit by consistently producing high quality output
+
+Reference historical pseudonymous writers and artists such as Voltaire, Benjamin Franklin, founding fathers who wrote the Federalist Papers, authors like CS Lewis (?), HG Wells (a woman!) and Mark Twain
+
+Reasons to operate pseudo vs reasons to remain anon
+
+Pseudo
+- Broadcast your values
+- Avoid capitalizing on credentials
+
+Anon
+- Personal privacy
+- Speak truth to power
+
+People often remark on my pseudo because they're familiar with the historical figure
+and/or resonate with Stoic virtues - an easy starting point for conversation
+
+Contrast with anonymous artists like Banksy who deliberately make efforts to
+conceal their identity and accrue value and reputation to their
+anonymous identity.
