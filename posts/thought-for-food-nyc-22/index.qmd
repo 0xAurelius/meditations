@@ -2,7 +2,7 @@
 title: "Building the Next Generation of Market-Based Climate Action"
 author: "Marcus Aurelius"
 date: "2022-10-01"
-categories: [speaking, talks, klimadao]
+categories: [speaking, presentations, klimadao]
 image: "video-grab.png"
 ---
 

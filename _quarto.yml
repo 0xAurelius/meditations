@@ -19,6 +19,8 @@ website:
         href: https://github.com/0xAurelius
       - icon: twitter
         href: https://twitter.com/0xKlimaurelius
+      - icon: envelope
+        href: mailto:marcus_aurelius_0x@proton.me
 format:
   html:
     theme:

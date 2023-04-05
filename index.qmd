@@ -4,6 +4,9 @@ image: pfp.png
 about:
   template: jolla
   links:
+    - icon: envelope
+      text: E-Mail
+      href: mailto:marcus_aurelius_0x@proton.me
     - icon: twitter
       text: Twitter
       href: https://twitter.com/0xKlimaurelius
@@ -20,11 +23,20 @@ about:
 
 In the spirit of my pseudonymous namesake's original
 [Meditations](https://en.wikipedia.org/wiki/Meditations), this site features
-a [collection of musings](/blog.html) about my personal journey, as well as
+a collection of musings about my personal journey, as well as
 observations about the organizations and communities in which I operate.
 
 See [this post](/posts/personal-journey/) for more about my background and the
 origins of this blog.
 
+I also welcome [public speaking](/speaking.html) opportunities - reach out if you'd like me
+to be part of your next event or appear on your podcast!
+
 _NOTE: all posts are living documents and may be updated for accuracy and_
 _completeness after original posting._
+
+<a href=/blog.html>
+  <button type="button" class="btn btn-primary rounded">
+      Enter
+  </button>
+</a>

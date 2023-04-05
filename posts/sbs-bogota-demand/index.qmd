@@ -2,7 +2,7 @@
 title: "Novel Demand Generation Talk @ Sustainable Blockchain Summit 2022 in Bogota"
 author: "Marcus Aurelius"
 date: "2022-10-22"
-categories: [speaking, talks, klimadao]
+categories: [speaking, presentations, klimadao]
 image: "video-grab.png"
 ---
 
