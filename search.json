@@ -4,21 +4,14 @@
     "href": "speaking.html",
     "title": "Speaking",
     "section": "",
-    "text": "I love speaking to diverse audiences about both big ideas and the specific projects I am working on. I can give short, punchy 10 minute presentations that concisely communicate complex concepts, as well as longer presentations that dig deep and provide enough history and context to fill an hour.\nSome of my previous apperances include multiple Schelling Points (Denver, Amsterdam, Bogota) and Sustainable Blockchain Summits (Paris, Bogota, Boston), as well as DeFiDay Amsterdam, ETHPorto and DeFiCon NYC. I have also appeared on podcasts such as Greenpill and Quorum.\nFrom crowded conference halls to intimate gatherings of builders and intellectuals, I’ve delivered lectures, facilitated roundtables, and appeared on numerous panels. Here’s a playlist on YouTube with most of my recorded speaking engagements, or see this tag on this blog for some past talks I’ve highlighted.\nI also enjoy mentoring and judging hackathons, having mentored at ETHBogota and ETHDenver, as well as mentored and judged at Good Hack NYC.\nI’d love to work together on your next event!\nFor personal appearances at events or on podcasts, please reach out to me via email (marcus_aurelius_0x@proton.me) or direct message on Twitter.\nFor requests related to KlimaDAO, please email marcus@klimadao.finance and include press@klimadao.finance under cc."
+    "text": "I love speaking to diverse audiences about both big ideas and the specific projects I am working on. I can give punchy 10 minute presentations that concisely communicate complex concepts, as well as longer presentations that dig deep and provide enough history and context to fill an hour.\nSome of my previous apperances include multiple Schelling Points (Denver, Amsterdam, Bogota) and Sustainable Blockchain Summits (Paris, Bogota, Boston), as well as DeFiDay Amsterdam, ETHPorto and DeFiCon NYC. I have also appeared on podcasts such as Greenpill and Quorum.\nFrom crowded conference halls to intimate gatherings of builders and intellectuals, I’ve delivered lectures, facilitated roundtables, and appeared on numerous panels. Here’s a playlist on YouTube with most of my recorded speaking engagements, or see this tag on this blog for some past talks I’ve highlighted.\nI also enjoy mentoring and judging hackathons, having mentored at ETHDenver, ETHBogota and ETHPorto, as well as mentored and judged at Good Hack NYC.\nI’d love to work together on your next event!\nFor personal appearances at events or on podcasts, please reach out to me via email (marcus_aurelius_0x@proton.me) or direct message on Twitter.\nFor requests related to KlimaDAO, please email marcus@klimadao.finance and include press@klimadao.finance under cc."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/defiday-22-ponzinomics/index.html",
+    "href": "posts/defiday-22-ponzinomics/index.html",
+    "title": "Ponzinomics Debate @ DeFiDay 2022 in Amsterdam",
     "section": "",
-    "text": "Observations of a Pragmatic Philosopher\nCollection of musings on my personal journey and observations about the organizations and communities in which I operate.\nSee my first post for background on me as a person and the origins of this blog.\nNOTE: all posts are living documents and may be updated for accuracy and completeness after posting."
-  },
-  {
-    "objectID": "posts/pseudo-anon-cred/index.html",
-    "href": "posts/pseudo-anon-cred/index.html",
-    "title": "Pseudonymity vs. Anonymity in the Struggle to Overcome Credentialism",
-    "section": "",
-    "text": "Differentiate between pseudo and anon, explain different motivations for each, delve into personal motivations for choosing to be pseudo on KlimaDAO but to explicitly reveal my identity for Playgrounds (want to help Playgrounds succeed and my data science and data engineering credentials are beneficial in that context)\nThe idea is not to buy into the entrenched credentialist system and take advantage of prestige or connections, but rather to recognize the pragmatic need to leverage credentials where relevant/appropriate, while not relying on them in place of demonstrating your merit by consistently producing high quality output"
+    "text": "I had a blast engaging in spirited debate with Seraphim (Euler Finance) and Frank (Oasis), two thoughtful and innovative DeFi builders.\nWhile Frank was framed as the antagonist, advocating that Ponzinomics are an inherently unsustainable mechanism, I clearly articulated my position that Ponzinomics can be useful for incentivizing early adoption, but is not a value proposition in and of itself.\nThe key difference that turns a project utilizing Ponzinomics to incentivize early adopters into a Ponzi scheme is the lack of a clear path to generating real value for real users. As long as there is a legitimate value proposition to the products or services provided by the project, it’s not appropriate to accuse that project of being a Ponzi scheme.\nI love this debate format for panels, it’s much more engaging for both panelists and the audience when there are principled disagreements and spicy takes playing out live on-stage. I hope more event organizers learn from the wonderful team at CryptoCanal, and go beyond crowded generic panels where the moderator just goes down the line asking stock questions."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,10 +21,38 @@
     "text": "The Hero’s Journey\n\n\n\n“Only those who do not seek power are qualified to hold it.” - Plato\n\n\nHumble Beginnings, Great Expectations\n\n\nLeaving the Ordinary World Behind\nIt was just another Monday evening watching the latest Bankless episode on YouTube, but the more I heard the more I realized this was not just another crypto project. Later that night I was pouring over the documentation and Discord, considering whether to put some of my own money at risk to support the project. This is what I’d been looking for: an opportunity to use my capital and skills to make a difference.\nBut things were not all sunny in paradise.\nIn the lead up to launch, there were many concerned and confused Klimates. I was quickly deputized as a moderator for my early work answering questions and helping people troubleshoot issues. The Core Team was busy and pulled in a million directions, so I did my best to keep the Discord under control, building Discord bots for Q/A and common metrics people were constantly asking for.\nLaunch was the most intense 48 hours of my life. We were on a voice chat for 16 hours straight, squashed bug after bug, and addressed hundreds of individual questions and issues.\nIn the wake of the launch, there were suddenly hundreds of people volunteering to contribute to the DAO.\nAround November or December, the Core Team first offered me to come aboard as a Core Contributor. At first I rejected the call to adventure, worried about the risk and instability of leaving my comfortable corporate AdTech data engineering gig to run my own company and provide services to a DAO.\nBut in the end my old company got acquired at just the right moment to give me a little cash and a good reason to move on to a new adventure.\n\n\nDocumenting the Adventure\nWhile I will carefully maintain the consistency of which identity is tied to which projects, I will use this blog as a place to make observations as a whole person - which may occassionally blur the line between my personas."
   },
   {
+    "objectID": "posts/pseudo-anon-cred/index.html",
+    "href": "posts/pseudo-anon-cred/index.html",
+    "title": "Pseudonymity vs. Anonymity in the Struggle to Overcome Credentialism",
+    "section": "",
+    "text": "Differentiate between pseudo and anon, explain different motivations for each, delve into personal motivations for choosing to be pseudo on KlimaDAO but to explicitly reveal my identity for Playgrounds (want to help Playgrounds succeed and my data science and data engineering credentials are beneficial in that context)\nThe idea is not to buy into the entrenched credentialist system and take advantage of prestige or connections, but rather to recognize the pragmatic need to leverage credentials where relevant/appropriate, while not relying on them in place of demonstrating your merit by consistently producing high quality output"
+  },
+  {
+    "objectID": "posts/thought-for-food-nyc-22/index.html",
+    "href": "posts/thought-for-food-nyc-22/index.html",
+    "title": "Building the Next Generation of Market-Based Climate Action",
+    "section": "",
+    "text": "Marcus Aurelius at TFF Generation Fest 2022 from Thought For Food on Vimeo.\n\nIt was truly a pleasure to speak at and help offset the carbon emissions associated with Thought For Food’s fantastic annual event in New York City. True to their innovative nature, we conducted a live offsetting demo that gave our team valueable insights about how best to integrate carbon credit retirement into live events.\nOf course the food at the event was amazing, and I really appreciated the TFF team’s commitment to mitigate emissions where possible and offset any residual emissions. Making this the norm for live events will be a critical driver of novel, consistent demand for consuming ecological benefit assets like carbon credits."
+  },
+  {
+    "objectID": "posts/sbs-bogota-demand/index.html",
+    "href": "posts/sbs-bogota-demand/index.html",
+    "title": "Novel Demand Generation Talk @ Sustainable Blockchain Summit 2022 in Bogota",
+    "section": "",
+    "text": "Marcus Aurelius at TFF Generation Fest 2022 from Thought For Food on Vimeo."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Meditations",
     "section": "",
-    "text": "Pseudonymity vs. Anonymity in the Struggle to Overcome Credentialism\n\n\n\n\n\n\n\nprinciples\n\n\nplaygrounds\n\n\n\n\n\n\n\n\n\n\n\nMar 31, 2023\n\n\nMarcus Aurelius\n\n\n\n\n\n\n  \n\n\n\n\nThe Boy Who Would Be Core\n\n\n\n\n\n\n\njourney\n\n\nklimadao\n\n\n\n\n\n\n\n\n\n\n\nMar 31, 2023\n\n\nMarcus Aurelius\n\n\n\n\n\n\nNo matching items"
+    "text": "The Boy Who Would Be Core\n\n\n\n\n\n\n\njourney\n\n\nklimadao\n\n\n\n\n\n\n\n\n\n\n\nMar 31, 2023\n\n\nMarcus Aurelius\n\n\n\n\n\n\n  \n\n\n\n\nPseudonymity vs. Anonymity in the Struggle to Overcome Credentialism\n\n\n\n\n\n\n\nprinciples\n\n\nplaygrounds\n\n\n\n\n\n\n\n\n\n\n\nMar 31, 2023\n\n\nMarcus Aurelius\n\n\n\n\n\n\n  \n\n\n\n\nNovel Demand Generation Talk @ Sustainable Blockchain Summit 2022 in Bogota\n\n\n\n\n\n\n\nspeaking\n\n\ntalks\n\n\nklimadao\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nMarcus Aurelius\n\n\n\n\n\n\n  \n\n\n\n\nBuilding the Next Generation of Market-Based Climate Action\n\n\n\n\n\n\n\nspeaking\n\n\ntalks\n\n\nklimadao\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\nMarcus Aurelius\n\n\n\n\n\n\n  \n\n\n\n\nPonzinomics Debate @ DeFiDay 2022 in Amsterdam\n\n\n\n\n\n\n\nspeaking\n\n\npanels\n\n\nklimadao\n\n\n\n\n\n\n\n\n\n\n\nApr 28, 2022\n\n\nMarcus Aurelius\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Observations of a Pragmatic Philosopher\nCollection of musings on my personal journey and observations about the organizations and communities in which I operate.\nSee my first post for background on me as a person and the origins of this blog.\nNOTE: all posts are living documents and may be updated for accuracy and completeness after posting."
   }
 ]
