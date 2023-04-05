@@ -1,0 +1,29 @@
+---
+title: "Ponzinomics Debate @ DeFiDay 2022 in Amsterdam"
+author: "Marcus Aurelius"
+date: "2022-04-28"
+categories: [speaking, panels, klimadao]
+image: "video-grab.png"
+---
+
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/Gme_vKcIVkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+I had a blast engaging in spirited debate with Seraphim (Euler Finance) and
+Frank (Oasis), two thoughtful and innovative DeFi builders.
+
+While Frank was framed as the antagonist, advocating that Ponzinomics are
+an inherently unsustainable mechanism, I clearly articulated my position
+that Ponzinomics can be useful for incentivizing early adoption, but is not
+a value proposition in and of itself.
+
+The key difference that turns a project utilizing Ponzinomics to incentivize
+early adopters into a Ponzi scheme is the lack of a clear path to generating
+real value for real users. As long as there is a legitimate value proposition
+to the products or services provided by the project, it's not appropriate to
+accuse that project of being a Ponzi scheme.
+
+I love this debate format for panels, it's much more engaging for both panelists
+and the audience when there are principled disagreements and spicy takes playing
+out live on-stage. I hope more event organizers learn from the wonderful team at
+[CryptoCanal](https://www.cryptocanal.org/), and go beyond crowded generic
+panels where the moderator just goes down the line asking stock questions.
