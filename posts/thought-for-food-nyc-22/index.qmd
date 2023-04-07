@@ -1,5 +1,5 @@
 ---
-title: "Building the Next Generation of Market-Based Climate Action"
+title: "Building the Next Generation of Market-Based Climate Action @ Thought For Food NYC 2022"
 author: "Marcus Aurelius"
 date: "2022-10-01"
 categories: [speaking, presentations, klimadao]

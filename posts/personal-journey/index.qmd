@@ -15,16 +15,18 @@ As my pseudonym gives away, I'm a philosopher at heart.
 I find stoic teachings very relevant given the turbulent times we're living
 through - though I'd hardly call myself a hardcore capital-S Stoic.
 
-# Humble Beginnings; Impending Doom; Great Expectations
+# Impending Doom; Great Expectations
 
-Growing up in Florida, the coming impact of rising sea levels and climate instability on the place where I grew up was evident to me from a young age. As part of my philosophy degree, I took a class on the Philosphical Problems of Climate Change. That course made it clear to me that ultimately climate change is a coordination game, but that incentives are not aligned for long term climate stability to in our status quo political and economic system. In particular, at least in the United States, politicians are only elected for 2-6 year terms - but climate change is a decadal process that requires long-term planning to manage. So for over a decade I felt powerless to contribute to the global coordination problem that is climate change - I'm too pragmatic for activism like protests and marches, but I'm not a typical engineer, and many sustainabiltiy companies I had looked at previously were looking for experience I didn't have.
+Growing up in Florida, the looming impact of rising sea levels and climate instability on the place where I grew up was evident to me from a young age.
 
 My family always said they expected me to do something great, and I love learning,
 so school always came easily to me. But I had no idea how I would know what
 great labor I should take on, and though I thought climate action a worthy
 candidate, the path forward was not clear.
 
-Back in 2016 or so I took a Coursera course about Bitcoin and distributed ledger technology, and it mentioned smart contracts briefly for insurance and real estate, but I didn't see any of that actually being built at the time. Ethereum had just launched, and while it captured my imagination, it seemed more like a science fair project than a planetary-scale compute and settlement layer - so I remained a crypto-skeptic and moved on (for now).
+Later on, in college, I took a class on the Philosphical Problems of Climate Change. That course made it clear to me that ultimately climate change is a coordination game, but that incentives are not aligned for long term climate stability to in our status quo political and economic systems.
+
+In particular, at least in the United States, politicians are only elected for 2-6 year terms - but climate change is a decadal process that requires long-term planning to manage. So for over a decade I felt powerless to contribute to the global coordination problem that is climate change - I'm too pragmatic for activism like protests and marches, but I'm not a typical engineer, and many sustainabiltiy companies I had looked at previously were looking for experience I didn't have.
 
 # Humble Beginnings in Academia
 
@@ -50,7 +52,11 @@ So I left to find a software shop where my nascent data engineering and DevOps s
 
 # Leaving the Ordinary World Behind
 
+Back in 2016 or so I took a Coursera course about Bitcoin and distributed ledger technology, and it mentioned smart contracts briefly for insurance and real estate, but I didn't see any of that actually being built at the time. Ethereum had just launched, and while it captured my imagination, it seemed more like a science fair project than a planetary-scale compute and settlement layer - so I remained a crypto-skeptic and moved on (for now).
+
 In late 2020 I started learning more about crypto again at the behest of my neighbor - who had been participating in DeFi Summer. I fell down the rabbit hole, finally seeing real applications use smart contracts for basic financial use-cases like borrowing-and-lending (Aave) or decentralized swaps (Uniswap). I became a regular Bankless listener and started playing around with DeFi applications.
+
+## Entering the Dark Forest
 
 It was just another Monday evening watching the [latest Bankless episode on YouTube](https://www.youtube.com/watch?v=uM5XX4AwEuI), but
 the more I heard the more I realized this was not just another crypto project.
@@ -74,6 +80,8 @@ issues. In the wake of the launch, there were suddenly hundreds of people
 who wanted to contribute to the DAO - utter chaos ensued, and I found myself
 called upon to lead.
 
+## The Call to Adventure
+
 Around November or December, the Core Team first offered me to come aboard as a
 Core Contributor. At first I rejected the call to adventure, worried about the
 risk and instability of leaving my comfortable corporate AdTech data engineering
@@ -83,7 +91,7 @@ But around the end of the year, my previous company got acquired at just the
 right moment to give me a little cash and a good reason to move on to a new
 adventure.
 
-# Documenting the Adventure
+# Documenting My Journey
 
 For the past year or so, my main gig has been Core Contributor at KlimaDAO, where I focus on data, strategy and governance. I'm also humbled to represent the DAO publicly by speaking at conferences, appearing on podcasts and speaking with media.
 
