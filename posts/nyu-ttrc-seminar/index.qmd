@@ -1,0 +1,13 @@
+---
+title: "NYU Sustainable Travel & Tourism Seminar: Monitoring & Evaluation"
+author: "Marcus Aurelius"
+date: "2023-05-05"
+categories: [speaking, presentations, klimadao]
+image: "video-grab.png"
+---
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/vLpzU7W6OOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+KlimaDAO was recently invited to attend and present at the second Sustainable Travel & Tourism Seminar organized by the [NYU Travel & Tourism Research Collaboratory](https://sites.google.com/nyu.edu/ttrc). The theme of this seminar was "Sustainability Monitoring and Evaluation" - over two days, we heard from a variety of individuals and organizations working to bring more sustainable practices to the travel & tourism sector, and I shared some of the solutions KlimaDAO is working on to compensate for the emissions from aviation and live events in an efficient and transparent manner.
+
+In my talk, I highlight the difficulty in verifying corporate social responsibility claims using antiquated manual retirement processes and PDF certificates, and demonstrate the increased transparency and improved user experience afforded by digital carbon credit retirement (powered by blockchain technology under the hood). I also compare a traditional aviation offset provider currently used by Air Canada ([Chooose](https://www.chooose.today/)) with the automated retirement solution we are prototyping with [FlyAir](https://www.klimadao.finance/blog/klimadao-and-fly-air-launch-automated-carbon-offsetting-for-chartered-jets), a private jet booking company.

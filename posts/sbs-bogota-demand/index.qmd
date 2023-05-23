@@ -8,7 +8,19 @@ image: "video-grab.png"
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/1tiVJbbiVf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+This short talk highlights a structural problem in the traditional carbon market,
+where the infrequent but large purchases from corporate end-users of carbon credits
+leads to very "chunky" demand. In turn, holders of carbon credits become
+very defensive about their inventory and price data, leading to opacity,
+fragmentation and lack of liquidity.
 
+To address this issue, I highlight novel demand sources being developed by KlimaDAO,
+from automated retirements on DeFi applications like Sushi to compensating for emissions
+from live events, or even integrating carbon credits into social media applications.
 
-<iframe src="https://player.vimeo.com/video/791229811?h=7cca8b7842" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/791229811">Marcus Aurelius at TFF Generation Fest 2022</a> from <a href="https://vimeo.com/thoughtforfoodorg">Thought For Food</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+At the event, this talk was the seed for a breakout session, where I moderated a lively
+discussion about potential demand sources that could address the chunky demand problem. One
+of the most interesting ideas to come out of that discussion was to offer carbon credit
+retirement as an optional benefit to employees via a payroll provider like TriNet or ADP -
+and now I'm trying to develop a partnership with a small crypto-forward payroll provider
+to try something like that out!
