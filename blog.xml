@@ -10,7 +10,58 @@
 <atom:link href="https://www.marcus.limo/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Meditations of a Pragmatic Philosopher</description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Fri, 31 Mar 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 May 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>NYU Sustainable Travel &amp; Tourism Seminar: Monitoring &amp; Evaluation</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/nyu-ttrc-seminar/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/vLpzU7W6OOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<p>KlimaDAO was recently invited to attend and present at the second Sustainable Travel &amp; Tourism Seminar organized by the <a href="https://sites.google.com/nyu.edu/ttrc">NYU Travel &amp; Tourism Research Collaboratory</a>. The theme of this seminar was “Sustainability Monitoring and Evaluation” - over two days, we heard from a variety of individuals and organizations working to bring more sustainable practices to the travel &amp; tourism sector, and I shared some of the solutions KlimaDAO is working on to compensate for the emissions from aviation and live events in an efficient and transparent manner.</p>
+<p>In my talk, I highlight the difficulty in verifying corporate social responsibility claims using antiquated manual retirement processes and PDF certificates, and demonstrate the increased transparency and improved user experience afforded by digital carbon credit retirement (powered by blockchain technology under the hood). I also compare a traditional aviation offset provider currently used by Air Canada (<a href="https://www.chooose.today/">Chooose</a>) with the automated retirement solution we are prototyping with <a href="https://www.klimadao.finance/blog/klimadao-and-fly-air-launch-automated-carbon-offsetting-for-chartered-jets">FlyAir</a>, a private jet booking company.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/nyu-ttrc-seminar/index.html</guid>
+  <pubDate>Fri, 05 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/nyu-ttrc-seminar/video-grab.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Toward an Open Data Standard for Environmental Assets @ Sustainable Blockchain Summit 2023 in Boston</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/sbs-boston/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/2GHNhknh2oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<p>Now that I’ve been working with carbon credit data for a couple of years, it seems to me that the incumbent players like Verra have no incentive to make their data easily available and interoperable. While this data is ostensibly public, their terms of service are pretty vague about what constitutes appropriate use, and without the project data then claims about the underlying activity are impossible to verify. As the number of credit issuance systems increases, and interoperable public infrastructure like the KlimaDAO retirement aggregator are built to seamlessly integrate different types of credits, it is critically important that project and issuance data from the registries is made publicly available in an efficient and standardized manner.</p>
+<p>In this talk, I basically invoke this xkcd comic to point out that we need a unified, open data standard for carbon credits:</p>
+<p><a href="How Standards Proliferate">https://imgs.xkcd.com/comics/standards.png</a></p>
+<p>To flesh out my point, I lay out some of the limitations of the current registry-specific data models, reference some existing frameworks such as the UN SDGs and Planetary Boundaries, as well as point toward ongoing initiatives like the Ecological Benefits Frame Activator (of which I am a participant) and the <a href="https://climateactiondata.org/about/">Climate Action Data Trust</a> (in whose user forum KlimaDAO has applied to participate).</p>
+<p>Finally, I provide an overview of the phased approach that KlimaDAO is taking to integrate carbon credit registry data given our need to ship products that work today, while preparing for a future where there are many more systems to integrate with and (hopefully) a standardized data model toward which to migrate.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/sbs-boston/index.html</guid>
+  <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/sbs-boston/video-grab.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
 <item>
   <title>The Boy Who Would Be Core</title>
   <dc:creator>Marcus Aurelius</dc:creator>
@@ -100,11 +151,9 @@
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/1tiVJbbiVf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
 </iframe>
-<iframe src="https://player.vimeo.com/video/791229811?h=7cca8b7842" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="">
-</iframe>
-<p>
-<a href="https://vimeo.com/791229811">Marcus Aurelius at TFF Generation Fest 2022</a> from <a href="https://vimeo.com/thoughtforfoodorg">Thought For Food</a> on <a href="https://vimeo.com">Vimeo</a>.
-</p>
+<p>This short talk highlights a structural problem in the traditional carbon market, where the infrequent but large purchases from corporate end-users of carbon credits leads to very “chunky” demand. In turn, holders of carbon credits become very defensive about their inventory and price data, leading to opacity, fragmentation and lack of liquidity.</p>
+<p>To address this issue, I highlight novel demand sources being developed by KlimaDAO, from automated retirements on DeFi applications like Sushi to compensating for emissions from live events, or even integrating carbon credits into social media applications.</p>
+<p>At the event, this talk was the seed for a breakout session, where I moderated a lively discussion about potential demand sources that could address the chunky demand problem. One of the most interesting ideas to come out of that discussion was to offer carbon credit retirement as an optional benefit to employees via a payroll provider like TriNet or ADP - and now I’m trying to develop a partnership with a small crypto-forward payroll provider to try something like that out!</p>
 
 
 
