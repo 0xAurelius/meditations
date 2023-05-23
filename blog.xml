@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Marcus Aurelius</title>
+<link>https://www.marcus.limo/blog.html</link>
+<atom:link href="https://www.marcus.limo/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Meditations of a Pragmatic Philosopher</description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Fri, 31 Mar 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Boy Who Would Be Core</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/personal-journey/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://en.wikipedia.org/wiki/Hero%27s_journey"><img src="https://www.marcus.limo/posts/personal-journey/https:/upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/300px-Heroesjourney.svg.png" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">The Hero’s Journey</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>“Only those who do not seek power are qualified to hold it.” - Plato</p>
+</blockquote>
+<section id="greetings" class="level1">
+<h1>Greetings</h1>
+<p>As my pseudonym gives away, I’m a philosopher at heart. I find stoic teachings very relevant given the turbulent times we’re living through - though I’d hardly call myself a hardcore capital-S Stoic.</p>
+</section>
+<section id="impending-doom-great-expectations" class="level1">
+<h1>Impending Doom; Great Expectations</h1>
+<p>Growing up in Florida, the looming impact of rising sea levels and climate instability on the place where I grew up was evident to me from a young age.</p>
+<p>My family always said they expected me to do something great, and I love learning, so school always came easily to me. But I had no idea how I would know what great labor I should take on, and though I thought climate action a worthy candidate, the path forward was not clear.</p>
+<p>Later on, in college, I took a class on the Philosphical Problems of Climate Change. That course made it clear to me that ultimately climate change is a coordination game, but that incentives are not aligned for long term climate stability to in our status quo political and economic systems.</p>
+<p>In particular, at least in the United States, politicians are only elected for 2-6 year terms - but climate change is a decadal process that requires long-term planning to manage. So for over a decade I felt powerless to contribute to the global coordination problem that is climate change - I’m too pragmatic for activism like protests and marches, but I’m not a typical engineer, and many sustainabiltiy companies I had looked at previously were looking for experience I didn’t have.</p>
+</section>
+<section id="humble-beginnings-in-academia" class="level1">
+<h1>Humble Beginnings in Academia</h1>
+<p>My academic background is in astrophysics and philosophy. I had the priveledge of doing research at Santa Fe Institute, where I connected with world-class transdisciplinary thinkers - and also realized the fundamental challenge I would face were I to continue in my academic career. Given the large number of PhDs being minted, and the small number of tenure-track positions available, the odds of success in academia struck me as quite unfavorable. Despite concerted effort to gain research experience during my undergrad to become a desirable PhD applicant, I did not succeed in publishing any papers before I graduated.</p>
+<p>From my earliest exposure to philosophy, I’ve been very interested in epistemology - especially philosophy of science. How do scientific communities come to communal understanding of natural phenomena over time? How does that consensus understanding among experts come to be disseminated and integrated into the worldview of ordinary people?</p>
+<p>So naturally when I began to pursue academic research of my own, I was drawn to verifying (or rather, in the spirit of Popper, falsifying) prominent theories in a particular niche. However, because I was comparing theoretical predictions with real-world data - and it turns out many theories in niche subfields have not been rigorously checked against data and often don’t stand up well - both my astro research and my research at SFI resulted in negative results.</p>
+<p>My mentors and advisors always told me that negative results were not publishable, which I found immensely frustrating. How would other scientists know that this theory struggles to accurately model real data? Every researcher who tried to use this model to predict the behavior of real systems would find it doesn’t quite work, but without a paper rigorously documenting the inaccuracies that knowledge would never be integrated into the consensus understanding.</p>
+<p>Still discouraged by these early experiences in academia, I’m keenly interested in the nascent DeSci space, as it may just offer solutions to some of academia’s problems, such as irreproducibility and gatekeeping by incumbent rent-seekers like journal publishers.</p>
+</section>
+<section id="learning-to-operate-in-organizations" class="level1">
+<h1>Learning to Operate in Organizations</h1>
+<p>Since school, I’ve been broadening out into an E-shaped person. Between the programming experience I picked up analyzing telescope images and working with genomic data in my research, combined with the critical thinking and problem solving skills from philosophy, made me very well suited to work in the emerging field of data science. I struggled a bit initially trying to get management consulting jobs with a data focus so I could work across a few different industries, but eventually I found a boutique data-focused consulting firm that would take me on.</p>
+<p>Working inside of giant corporations as a consultant was a <em>highly</em> educating experience. While many view corporations as faceless, nameless behemoths that act with a unified heartless will, I rapidly understood how ossified and uncoordinated most corporations are internally, which explains how ordinary people “just trying to do their job” could be complicit in such horrendous decision-making.</p>
+<p>After being pushed into management without insufficient resources and only 2 years of experience, it rapidly became clear to me I would not be able to grow and mature surrounded by people less experienced than me and led by men 30 years my senior who had no background in the technical work they were directing us to carry out.</p>
+<p>So I left to find a software shop where my nascent data engineering and DevOps skillset would be nurtured and I could grow into a mature individual contributor in a technical organization. While I considered an offer from a crypto firm to lead the team building their infrastructure, this seemed like too much responsibility given my limited experience, so I settled into a mid-level software engineering job at a mid-stage AdTech startup building data pipelines and cloud infrastructure. The systems I built analyzed data from social media platforms to help advertisers make better decisions about what type of content to support with their ad spend, so they could avoid supporting content that might be harmful or damage their brand, as well as target content that would be likely to have viewers from their target audience.</p>
+</section>
+<section id="leaving-the-ordinary-world-behind" class="level1">
+<h1>Leaving the Ordinary World Behind</h1>
+<p>Back in 2016 or so I took a Coursera course about Bitcoin and distributed ledger technology, and it mentioned smart contracts briefly for insurance and real estate, but I didn’t see any of that actually being built at the time. Ethereum had just launched, and while it captured my imagination, it seemed more like a science fair project than a planetary-scale compute and settlement layer - so I remained a crypto-skeptic and moved on (for now).</p>
+<p>In late 2020 I started learning more about crypto again at the behest of my neighbor - who had been participating in DeFi Summer. I fell down the rabbit hole, finally seeing real applications use smart contracts for basic financial use-cases like borrowing-and-lending (Aave) or decentralized swaps (Uniswap). I became a regular Bankless listener and started playing around with DeFi applications.</p>
+<section id="entering-the-dark-forest" class="level2">
+<h2 class="anchored" data-anchor-id="entering-the-dark-forest">Entering the Dark Forest</h2>
+<p>It was just another Monday evening watching the <a href="https://www.youtube.com/watch?v=uM5XX4AwEuI">latest Bankless episode on YouTube</a>, but the more I heard the more I realized this was not just another crypto project. The idea of using blockchain technology to bring greater transparency and efficiency to climate finance struck me as a perfect combination of my experience with data and my longstanding desire to contribute my professional skills to support climate action.</p>
+<p>Later that night I was pouring over the documentation and Discord, considering whether to put some of my own money at risk to support the project. This is what I’d been looking for: an opportunity to use my capital and skills to make a difference.</p>
+<p>But things were not all sunny in paradise.</p>
+<p>In the lead up to launch, there were many concerned and confused Klimates. I was quickly deputized as a moderator for my early work answering questions and helping people troubleshoot issues. The Core Team was busy and pulled in a million directions, so I did my best to keep the Discord under control, building Discord bots for Q/A and common metrics people were constantly asking for.</p>
+<p>Launch was the most intense 48 hours of my life. We were on a voice chat for 16 hours straight, squashed bug after bug, and addressed hundreds of individual questions and issues. In the wake of the launch, there were suddenly hundreds of people who wanted to contribute to the DAO - utter chaos ensued, and I found myself called upon to lead.</p>
+</section>
+<section id="the-call-to-adventure" class="level2">
+<h2 class="anchored" data-anchor-id="the-call-to-adventure">The Call to Adventure</h2>
+<p>Around November or December, the Core Team first offered me to come aboard as a Core Contributor. At first I rejected the call to adventure, worried about the risk and instability of leaving my comfortable corporate AdTech data engineering gig to run my own company and provide services to a DAO.</p>
+<p>But around the end of the year, my previous company got acquired at just the right moment to give me a little cash and a good reason to move on to a new adventure.</p>
+</section>
+</section>
+<section id="documenting-my-journey" class="level1">
+<h1>Documenting My Journey</h1>
+<p>For the past year or so, my main gig has been Core Contributor at KlimaDAO, where I focus on data, strategy and governance. I’m also humbled to represent the DAO publicly by speaking at conferences, appearing on podcasts and speaking with media.</p>
+<p>It’s been a joy to develop my public speaking skills sharing about a movement that I’m so passionate about, and begin my journey as a leader in the space as part of a community that I came up through organically, from a quiet observer in Discord, to a moderator, to building bots and dashboards, and finally stepping up to become a Core contributor.</p>
+<p>After having several people ask me to document my journey and share insights I’ve gained along the way, I created this blog to serve as a public journal.</p>
+<p>While I will carefully maintain the consistency of which identity is tied to which project, I will use this blog as a place to make observations from my unique perspective as a whole person - which may occassionally blur the line between my personas. More on my thoughts about pseudonymity and identity to come.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>journey</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/personal-journey/index.html</guid>
+  <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Novel Demand Generation Talk @ Sustainable Blockchain Summit 2022 in Bogota</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/sbs-bogota-demand/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/1tiVJbbiVf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<iframe src="https://player.vimeo.com/video/791229811?h=7cca8b7842" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="">
+</iframe>
+<p>
+<a href="https://vimeo.com/791229811">Marcus Aurelius at TFF Generation Fest 2022</a> from <a href="https://vimeo.com/thoughtforfoodorg">Thought For Food</a> on <a href="https://vimeo.com">Vimeo</a>.
+</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/sbs-bogota-demand/index.html</guid>
+  <pubDate>Sat, 22 Oct 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/sbs-bogota-demand/video-grab.png" medium="image" type="image/png" height="68" width="144"/>
+</item>
+<item>
+  <title>Building the Next Generation of Market-Based Climate Action @ Thought For Food NYC 2022</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/thought-for-food-nyc-22/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe src="https://player.vimeo.com/video/791229811?h=7cca8b7842" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="">
+</iframe>
+<p>
+<a href="https://vimeo.com/791229811">Marcus Aurelius at TFF Generation Fest 2022</a> from <a href="https://vimeo.com/thoughtforfoodorg">Thought For Food</a> on <a href="https://vimeo.com">Vimeo</a>.
+</p>
+<p>It was truly a pleasure to speak at and help offset the carbon emissions associated with Thought For Food’s fantastic annual event in New York City. True to their innovative nature, we conducted a live offsetting demo that gave our team valueable insights about how best to integrate carbon credit retirement into live events.</p>
+<p>Of course the food at the event was amazing, and I really appreciated the TFF team’s commitment to mitigate emissions where possible and offset any residual emissions. Making this the norm for live events will be a critical driver of novel, consistent demand for consuming ecological benefit assets like carbon credits.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/thought-for-food-nyc-22/index.html</guid>
+  <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/thought-for-food-nyc-22/video-grab.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Ponzinomics Debate @ DeFiDay 2022 in Amsterdam</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/defiday-22-ponzinomics/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/Gme_vKcIVkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<p>I had a blast engaging in spirited debate with Seraphim (Euler Finance) and Frank (Oasis), two thoughtful and innovative DeFi builders.</p>
+<p>While Frank was framed as the antagonist, advocating that Ponzinomics are an inherently unsustainable mechanism, I clearly articulated my position that Ponzinomics can be useful for incentivizing early adoption, but is not a value proposition in and of itself.</p>
+<p>The key difference that turns a project utilizing Ponzinomics to incentivize early adopters into a Ponzi scheme is the lack of a clear path to generating real value for real users. As long as there is a legitimate value proposition to the products or services provided by the project, it’s not appropriate to accuse that project of being a Ponzi scheme.</p>
+<p>I love this debate format for panels, it’s much more engaging for both panelists and the audience when there are principled disagreements and spicy takes playing out live on-stage. I hope more event organizers learn from the wonderful team at <a href="https://www.cryptocanal.org/">CryptoCanal</a>, and go beyond crowded generic panels where the moderator just goes down the line asking stock questions.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>panels</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/defiday-22-ponzinomics/index.html</guid>
+  <pubDate>Thu, 28 Apr 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/defiday-22-ponzinomics/video-grab.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+</channel>
+</rss>

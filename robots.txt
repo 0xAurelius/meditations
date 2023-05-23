@@ -1,1 +1,1 @@
-Sitemap: https://github.com/0xAurelius/meditations/sitemap.xml
+Sitemap: https://www.marcus.limo/sitemap.xml
