@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: ""
 listing:
   contents: posts
   sort: "date desc"
@@ -7,6 +7,9 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  feed: true
 page-layout: full
 title-block-banner: true
 ---
+
+<iframe src="https://embeds.beehiiv.com/704193cf-d50a-4fe7-b633-26abf98f0791" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
