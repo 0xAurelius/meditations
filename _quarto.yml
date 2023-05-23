@@ -11,6 +11,8 @@ website:
   site-url: https://www.marcus.limo
   open-graph:
     site-name: Marcus Aurelius | Meditations
+  twitter-card:
+    creator: "@0xKlimaurelius"
   navbar:
     right:
       - text: Meditations

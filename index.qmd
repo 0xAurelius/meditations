@@ -33,7 +33,9 @@ I also welcome [public speaking](/speaking.html) opportunities - reach out if yo
 to be part of your next event or appear on your podcast!
 
 _NOTE: all posts are living documents and may be updated for accuracy and_
-_completeness after original posting._
+_completeness after original posting. All views and opinions expressed here are_
+_my own, and do not reflect the official positions of organizations with which_
+_I am affiliated._
 
 <a href=/blog.html>
   <button type="button" class="btn btn-primary rounded">
