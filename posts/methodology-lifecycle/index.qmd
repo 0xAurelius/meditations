@@ -1,0 +1,147 @@
+---
+title: "Methodology Lifecycle Governance for Environmental Assets"
+author: "Marcus Aurelius"
+date: "2023-07-23"
+categories: [governance, klimadao]
+image: "landscape.jpg"
+---
+
+Carbon credits quantify the greenhouse gas (GHG) emission reductions or removals 
+achieved by projects or programs around the world that mitigate climate change. 
+Carbon credit standards set rules and requirements to ensure the quality and 
+integrity of these credits. Standards provide methodologies for measuring, monitoring and verifying the GHG benefits of different types of 
+activities, such as renewable energy, forest conservation, or waste management.
+
+In this post, I explore how existing carbon credit standards develop and
+maintain methodologies, as well as how decentralized governance mechanisms can 
+facilitate destruction of credits from deprecated methodologies - leading to a
+more robust carbon market, better equipped to adapt to evolving scientific consensus
+and technology.
+
+# What is a Methodology Anyway?
+
+Much like a lab experiment you might have done in grade-school science class,
+a methodology specifies a detailed set of steps and procedures to reproduce
+a particular result. 
+
+A carbon credit methodology will typically specify:
+- the **applicability conditions** under which the activity should take place
+- how to define the **boundaries** of a project
+- how to construct an appropriate **baseline** (i.e. demonstrate that the
+project activities actually make a difference relative to the status quo)
+- how to **quantify the greenhouse gas emissions** avoided or removed by the activity
+- how to **monitor** the project to ensure the intended results are realized
+
+# Status Quo Methodology Development
+
+The first verified carbon credit system, the [Clean Development Mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism),
+was created 30 years ago under the Kyoto Protocol. Since then, 
+the governance mechanisms for carbon credit standards have not changed much.
+In particular, they tend to favor opaque submission and review processes where most 
+activities are carried out by permissioned insiders (e.g. staff at the standards body).
+While standards typically feature a public comment period in their methodology development
+process, the submitted comments are not published in full, and it is difficult to tell
+if issues that were raised have been properly addressed.
+
+## Example: Verra's Verified Carbon Standard (VCS)
+
+[Verra](https://verra.org/) is a non-profit organization that manages several standards and programs 
+for climate action and sustainable development, including the VCS Program, which
+ is the world’s most widely used GHG crediting program. 
+The VCS Program has issued over one billion carbon credits from thousands of 
+projects in 80 countries.
+
+The VCS Program has its own methodologies that have been approved for use by Verra, 
+as well as methodologies from other approved GHG programs, such as the 
+Clean Development Mechanism (CDM) and the Climate Action Reserve (CAR). All 
+methodologies undergo a [review and consultation 
+process](https://verra.org/methodologies-main/develop-a-methodology/) to ensure they meet the rules and requirements of the VCS Program.
+
+Verra periodically reviews VCS methodologies to ensure they continue to reflect best practices, 
+scientific consensus, and evolving market conditions and technical developments in 
+a sector.
+
+# Cleaning Up a Decade-Old Mess
+
+During the joint launch of [Toucan's one-way carbon bridge](https://docs.toucan.earth/toucan/bridge/carbon-bridge)
+and [KlimaDAO](https://klimadao.finance), about 700,000 
+tonnes of carbon credits were bridged from the Verra registry issued under the AM0001 
+methodology for decomposition of HFC-23 (a byproduct from production of refrigerant).
+
+This particular [methodology was originally developed under the CDM](https://cdm.unfccc.int/methodologies/DB/GAOZAY2DWIQHK71LJS027N6N4AV6SC), 
+and was carried forward into Verra's VCS. However, in the wake of the Montreal Protocol, which
+established mandatory commitments at the national level for preventing emissions of
+hydroflourocarbons like HFC-23, Verra subsequently [ceased issuance of credits under
+any methodology related to HFC-23](https://verra.org/phasing-out-hfc-23-projects/).
+
+The HFC-23 methodology was also called into question because of concerns that some project
+developers were [producing more refrigerant than they actually had buyers for,
+simply to issue carbon credits based on the decomposition of the HFC-23 byproduct](https://carbonbetter.com/story/additionality/).
+
+After the methodology was discontinued by Verra, no steps were taken to 
+address the millions of tonnes of credits which were issued under this methodology
+and remained on the books of many carbon market participants. This created ambiguity 
+around the value of these assets, and led many in the carbon markets to 
+conveniently forget about their existence. Nonetheless, for years after the 
+deprecation of the methodology, transactions and retirements continued in the 
+shadows of the over-the-counter (OTC) market. 
+
+## Leveraging Public Governance
+
+This is a clear coordination failure: no new credits would be issued under the
+methodology, yet there was no mechanism to signal that the market had moved on
+from the existing credits and destroy them once and for all to prevent further use.
+
+Of course, Verra did not originate this methodology - it was originally developed under 
+the CDM - but it did continue to allow retirement of these credits after ceasing issuance.
+Under its current Terms of Use, Verra lacks the ability to unilaterally 
+destroy credits held by registry users, and registry users have no incentive
+to destroy their own assets.
+
+As the situation became clear to the KlimaDAO community, Toucan implemented a restriction
+on the BCT pool to prevent more HFC-23 credits from being added to the pool. However,
+just like the off-chain market, the Digital Carbon Market had now inherited a significant
+chunk of these credits.
+
+## Sorting the Laundry
+
+I helped lead an investigation into the history and activity of these credits. Based 
+on the Verra [public registry data](https://registry.verra.org/app/search/VCS/VCUs) on retirements, I found that credits from 
+this methodology had not been used for retirement in almost 2 years.
+
+As such, the path forward was clear to me: even if the particular project whose credits
+ended up in the KlimaDAO treasury were from a project that did not abuse the system,
+at a time when the methodology was still actively used for retirement, those credits
+were objectively no longer being used, and therefore did not warrant going inclusion
+in the digital carbon market.
+
+So I began to prepare a governance proposal which would destroy all of the HFC-23
+credits in the BCT pool. I also approached Toucan for assistance in the process,
+both in terms of capital to destroy the credits and a special function to allow
+burning of credits from the pool without paying the selective redemption fee.
+
+Several weeks later, [KLIMA token holders voted definitively to destroy the HFC-23 credits](https://snapshot.org/#/klimadao.eth/proposal/0x2ae3fce131f98bf22ec9ef306a13e359002eaea0d111328149204dfd9dc9b2e4).
+
+# Murphy's Law for Methodologies
+
+Based on this experience I propose a corollary of [Murphy's Law](https://en.wikipedia.org/wiki/Murphy's_law)
+for carbon credit methodologies:
+
+> No methodology will ever be perfect - therefore all methodologies will be criticized.
+
+Criticism and scrutiny is absolutely essential to progress this market and develop
+the most effective and impactful methodologies. But when that data-driven, scientific
+criticism is wrapped up into a simplistic media narrative, it undermines the integrity
+of the market.
+
+Rather than abandoning a methodology wholesale based on simplistic media narratives, 
+the carbon market needs mechanisms to deliberately evolve over time. The goal should be 
+to avoid disrupting project developers midflight, and prevent an inefficient race to 
+the top of the price curve, which distorts the relationship between price, cost and 
+efficiency.
+
+KlimaDAO established a precedent to maintain support for a given methodology until
+market participants have not utilized that asset for retirement purposes in years.
+As new supply comes online and KlimaDAO integrates that supply into its ecosystem and treasury,
+the HFC-23 situation provides a clear guide to progressively improving the carbon
+markets using public, decentralized governance mechanisms.
