@@ -1,0 +1,105 @@
+---
+title: "Pseudonymity, Anonymity and Credentialism"
+author: "Marcus Aurelius"
+date: "2023-04-05"
+categories: [principles, playgrounds]
+image: "image.jpg"
+---
+
+[Much noise has been made](https://decrypt.co/76997/elizabeth-warren-crypto-big-banks-shadowy-super-coders) about the prevalence of pseudnymous and anonymous contributors 
+in the web3 space. Perhaps most famously, the Bitcoin whitepaper and initial
+software was released by "Satoshi Nakamoto" - an individual or group of 
+individuals whose identity still has yet to be definitively revealed, 
+despite [multiple](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjr6rXdlfD_AhVR8bsIHTd5Bu4QFnoECA8QAQ&url=https%3A%2F%2Fwww.coindesk.com%2Fpolicy%2F2022%2F09%2F19%2Fcraig-wrights-satoshi-proofs-not-credible-and-a-farce-hodlonaut-lawyers-say%2F&usg=AOvVaw3WN72i2zvLKOi68_txXz8l&opi=89978449) 
+[claims](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjr6rXdlfD_AhVR8bsIHTd5Bu4QFnoECAoQAQ&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2022%2Faug%2F06%2Fanother-court-case-fails-to-unlock-the-mystery-of-bitcoins-satoshi-nakamoto&usg=AOvVaw0vwnD9dKDYUC3Vz-onnKGU&opi=89978449) 
+to the [contrary](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjr6rXdlfD_AhVR8bsIHTd5Bu4QFnoECAkQAQ&url=https%3A%2F%2Fwww.investopedia.com%2Ftech%2Fthree-people-who-were-supposedly-bitcoin-founder-satoshi-nakamoto%2F&usg=AOvVaw0p3nDtcuXTOuaYntUDIKZW&opi=89978449).
+
+# Historical Context
+
+It is important to distinguish between a **pseudonym** (also known as a "pen name" or "stage name") and
+a proper **anonymous identity**. Historically, many intellectuals, writers and artists have operated under pseudonyms.
+From a group of America's Founding Fathers publishing the [Federalist Papers under the shared
+pseudnym "Publius"](https://en.wikipedia.org/wiki/The_Federalist_Papers) to beloved authors such as [Mark Twain](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjk5fnSlvD_AhXhg_0HHaxMCL0QFnoECBEQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMark_Twain&usg=AOvVaw1ghZ7j4uP1pkogdLX88Yb-&opi=89978449), 
+these people had different reasons for obscuring the connection between their work and their legal
+identities. In the modern era, countless artists operate under pseudonyms, from [Grimes](https://en.wikipedia.org/wiki/Grimes) to [Gorillaz](https://en.wikipedia.org/wiki/Gorillaz).
+
+Truly anonymous identities are more rare in professional context, even among artists. For instance, [Banksy](https://en.wikipedia.org/wiki/Banksy)
+has maintained an anonymous identity for decades, presumably because his chosen medium (graffiti) is
+illegal in many jurisdictions.
+
+Voltaire, Benjamin Franklin, authors like CS Lewis (?), HG Wells (a woman!) and Mark Twain
+
+# Legitimate Motivations for Pseudonymity
+
+In our era of extreme credentialism, where a diploma from the right school or
+work experience at the right company opens doors that are sealed shut for otherwise
+skilled and thoughtful people, pseudonymity and anonymity can be powerful tools to disrupt
+incumbent power structures. That said, they can also be abused to conceal malicious behavior.
+
+## Broadcast Values
+
+People often remark on my pseudonym because they're familiar with the historical figure
+of Marcus Aurelius, and/or resonate with Stoic virtues - an easy starting point for meaningful conversation
+that short-circuits small talk.
+
+## Avoid capitalizing on credentials
+
+
+
+Differentiate between pseudo and anon, explain different motivations for each,
+delve into 
+
+The idea is not to buy into the entrenched credentialist system and take advantage of prestige or connections,
+but rather to recognize the pragmatic need to leverage credentials where relevant/appropriate,
+while not relying on them in place of demonstrating your merit by consistently producing high quality output
+
+# Legitimate Motivations for Anonymity
+
+- Personal privacy
+- Speak truth to power
+
+Consider a truly anonymous artist like Banksy, who deliberately makes efforts to
+conceal their identity, accruing value and reputation to their anonymous identity.
+
+Or the case of female writers such as George Eliot, whose work would have been
+dismissed based on her scandalous elopement with a married man. 
+
+# Risks of Anonymity
+
+Case of Sifu, who used a pseudonym to obscure his past
+
+That said, people do deserve the right to redeem themselves through demonstrated
+good work
+
+Misbehavior and evil will always exist, and while anonymity may provide a mask,
+bad behavior cannot be prevented by indiscriminate suspicion of anyone operating
+under a name different from their legal name. Countless tyrants have carried out
+egregious acts, despite their legal name and identity being fully public.
+
+# Endgame Strategies
+
+## Disappear
+
+As is the case with Nakamoto, a simple endgame is to allow the identity to 
+fade into history, 
+
+## Maintain
+
+As long as the human or group of humans behind the identity remain, they can
+continue to maintain the identity via regular output of work products attributed
+to the identity.
+
+## Integrate
+
+# Pseudonymity and Anonymity in the Age of Generative Models
+
+Now that text, images and other products can be generated progammatically using
+[foundation models]() like GPT and Stable Diffusion, identities have become
+even more detached from a particular human.
+
+There are already AI-generated music acts, complete with visual avatars.
+
+# Personal Motivations for Maintaining a Pseudonym
+
+KlimaDAO but to
+explicitly reveal my identity for Playgrounds (want to help Playgrounds succeed and my data science and data engineering credentials are beneficial in that context)
