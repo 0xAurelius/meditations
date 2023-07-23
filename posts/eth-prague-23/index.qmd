@@ -1,0 +1,40 @@
+---
+title: "Bootstrapping Impact Markets @ ETHPrague 2023"
+author: "Marcus Aurelius"
+date: "2023-06-10"
+categories: [speaking, presentations, klimadao]
+image: "video-grab.png"
+---
+
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=84mcr0M_a7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+It was a joy to visit the beautiful city of Prague and speak at the historic [Paralelni Polis](https://www.paralelnipolis.cz/en/o-nas/en/).
+ETHPrague brought together some of the sharpest minds in Ethereum, open-source software and distributed computing, alongside solarpunks and the ReFi community.
+
+There is growing excitement about new environmental assets that fund impact "beyond just carbon." 
+However, after about 30 years since the first voluntary carbon market, [the Clean Development Mechanism (CDM), was created under the 
+Kyoto Protocol](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism), 
+carbon markets themselves are still quite immature, and there are plenty of lessons to learn from their development thus far.
+
+In this talk, I go over the basic structure of impact markets, discuss how carbon markets
+implement that structure, and some insights about how to bootstrap new impact markets.
+
+I specifically highlight the tension between liquidity and fungibility for building scalable markets.
+Since a given environmental project will only create a certain number of impact certficates, 
+the number of comparable assets may be quite small, which limits liquidity. 
+
+However, deep liquidity is necessary to support sophisticated financial instruments (e.g. forward funding, insurance).
+Given the high up-front funding requirements for environmental impact projects, spot liquidity is critical to ensure
+project developers and financiers have reliable prices to discount against. 
+
+I also highlight the ongoing work at KlimaDAO to bootstrap new strata in the digital
+carbon market by forward funding carbon projects using treasury capital, then once those credits
+are delivered, deploying a new liquidity pool that prices that type of project. For instance, KlimaDAO funded
+a [cookstove project in a refugee camp in Bangladesh](https://forum.klimadao.finance/d/139-kip-32-starcb-eeimp-project/8) under the Gold Standard, 
+and a [forestry project in Africa](https://forum.klimadao.finance/d/202-kip-34-aither-arbo-eligible-carbon-project-opportunity/11) 
+under Verra's Verified Carbon Standard. Upon delivery, proposals will be advanced to use these credits to create a spot liquidity pool 
+for the EEIMP (small scale energy efficiency) and ARBO (afforestation and reforestation) carbon pools proposed by KlimaDAO's bridging partner C3.
+
+These new liquidity pools will then provide real-time pricing data for spot credits of those types, so that financiers
+and project developers can negotiate forward funding for new, similar carbon projects on a level playing field. Project developers
+will also be able to access liquidity immediately upon delivery, rather than waiting to offload their credits to a buyer.
