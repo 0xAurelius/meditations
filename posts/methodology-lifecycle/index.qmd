@@ -15,8 +15,7 @@ activities, such as renewable energy, forest conservation, or waste management.
 In this post, I explore how existing carbon credit standards develop and
 maintain methodologies, as well as how decentralized governance mechanisms can 
 facilitate destruction of credits from deprecated methodologies - leading to a
-more robust carbon market, better equipped to adapt to evolving scientific consensus
-and technology.
+more robust carbon market, better equipped to adapt to evolving scientific consensus.
 
 # What is a Methodology Anyway?
 
@@ -95,7 +94,7 @@ from the existing credits and destroy them once and for all to prevent further u
 Of course, Verra did not originate this methodology - it was originally developed under 
 the CDM - but it did continue to allow retirement of these credits after ceasing issuance.
 Under its current Terms of Use, Verra lacks the ability to unilaterally 
-destroy credits held by registry users, and registry users have no incentive
+destroy properly issued credits held by registry users, and registry users have no incentive
 to destroy their own assets.
 
 As the situation became clear to the KlimaDAO community, Toucan implemented a restriction
@@ -105,14 +104,23 @@ chunk of these credits.
 
 ## Sorting the Laundry
 
-I helped lead an investigation into the history and activity of these credits. Based 
-on the Verra [public registry data](https://registry.verra.org/app/search/VCS/VCUs) on retirements, I found that credits from 
-this methodology had not been used for retirement in almost 2 years.
+Seeing this as an opportunity to exercise the unique advantages of KlimaDAO's
+public governance mechanism, I helped conduct an investigation into the 
+history and activity of these credits. 
+
+On one hand, [academic research](https://www.rff.org/publications/working-papers/the-net-emissions-impact-of-hfc-23-offset-projects-from-the-clean-development-mechanism/)
+indicated that some HFC-23 decomposition projects had been properly implemented, 
+potentially even under-crediting - while other projects had engaged
+in deliberate over-creditng by producing more refrigerant than they would 
+under a Business-As-Usual (BAU) scenario.
+
+However, based on the Verra [public registry data](https://registry.verra.org/app/search/VCS/VCUs) on retirements, I found that credits from 
+I found that this methodology had not been used for retirement in about 2 years.
 
 As such, the path forward was clear to me: even if the particular project whose credits
 ended up in the KlimaDAO treasury were from a project that did not abuse the system,
-at a time when the methodology was still actively used for retirement, those credits
-were objectively no longer being used, and therefore did not warrant going inclusion
+and issued at a time when the methodology was still actively used for retirement, 
+those credits were objectively no longer being used, and therefore did not warrant going inclusion
 in the digital carbon market.
 
 So I began to prepare a governance proposal which would destroy all of the HFC-23
@@ -127,14 +135,14 @@ Several weeks later, [KLIMA token holders voted definitively to destroy the HFC-
 Based on this experience I propose a corollary of [Murphy's Law](https://en.wikipedia.org/wiki/Murphy's_law)
 for carbon credit methodologies:
 
-> No methodology will ever be perfect - therefore all methodologies will be criticized.
+> No methodology is perfect - therefore all methodologies will be criticized.
 
 Criticism and scrutiny is absolutely essential to progress this market and develop
 the most effective and impactful methodologies. But when that data-driven, scientific
-criticism is wrapped up into a simplistic media narrative, it undermines the integrity
-of the market.
+criticism is wrapped up into an overly simplistic narrative and shouted from the rootops,
+it can disrupt the market.
 
-Rather than abandoning a methodology wholesale based on simplistic media narratives, 
+Rather than abandoning a methodology wholesale based on simplistic narratives, 
 the carbon market needs mechanisms to deliberately evolve over time. The goal should be 
 to avoid disrupting project developers midflight, and prevent an inefficient race to 
 the top of the price curve, which distorts the relationship between price, cost and 
@@ -143,5 +151,5 @@ efficiency.
 KlimaDAO established a precedent to maintain support for a given methodology until
 market participants have not utilized that asset for retirement purposes in years.
 As new supply comes online and KlimaDAO integrates that supply into its ecosystem and treasury,
-the HFC-23 situation provides a clear guide to progressively improving the carbon
-markets using public, decentralized governance mechanisms.
+the HFC-23 situation provides an example of progressively improving the carbon
+markets using public governance.
