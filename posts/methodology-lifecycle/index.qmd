@@ -226,7 +226,7 @@ public governance to remove these credits from the market.
 There is much fanfare over the recent release of the Core Carbon Principles (CCPs)
 from the Integrity Council for the Voluntary Carbon Market. The hope is that this
 initiative will establish a clear floor for what defines a "high quality" carbon 
-project. The ICVCM has only [just begun accepting applications on August 1st, 2023](https://twitter.com/ic_vcm/status/1686015987269742592) 
+project. The ICVCM has only [just begun accepting applications on August 1st, 2023](https://twitter.com/ic_vcm/status/1686281235742543872) 
 for CCP labeling, with the first labels [expected to be given out by end of year](https://twitter.com/ic_vcm/status/1686015987269742592).
 It remains to be seen how the implementation of these unobjectionable, broadly accepted
 principles will be interpreted by the market, and by the media.
@@ -252,4 +252,4 @@ high-integrity climate action.
 Token-based governance, as used by KlimaDAO's community to destroy the HFC-23 credits
 present in the DCM, is by no means perfect. There are a variety of problems to be solved,
 such as mitigating the role of whales and increasing community engagement, but it does
-demonstrates what is possible when incentives are aligned.
+demonstrate what is possible when incentives are aligned.
