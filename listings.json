@@ -2,6 +2,9 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/methodology-lifecycle/index.html",
+      "/posts/ethcc-23/index.html",
+      "/posts/eth-prague-23/index.html",
       "/posts/nyu-ttrc-seminar/index.html",
       "/posts/sbs-boston/index.html",
       "/posts/personal-journey/index.html",

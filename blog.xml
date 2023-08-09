@@ -9,8 +9,156 @@
 <link>https://www.marcus.limo/blog.html</link>
 <atom:link href="https://www.marcus.limo/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Meditations of a Pragmatic Philosopher</description>
-<generator>quarto-1.3.353</generator>
-<lastBuildDate>Fri, 05 May 2023 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 09 Aug 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Methodology Lifecycle Governance for Environmental Assets</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/methodology-lifecycle/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Carbon credits quantify the greenhouse gas (GHG) emission reductions or removals achieved by projects or programs around the world that mitigate climate change. Carbon credit standards set rules and requirements to ensure the quality and integrity of these credits. Standards provide methodologies for measuring, monitoring and verifying the GHG benefits of different types of activities, such as renewable energy, forest conservation, or waste management.</p>
+<p>In this post, I explore how existing carbon credit standards develop and maintain methodologies, as well as how decentralized governance mechanisms can facilitate destruction of credits from deprecated methodologies - leading to a more robust carbon market, better equipped to adapt to evolving scientific consensus.</p>
+<section id="what-is-a-methodology-anyway" class="level1">
+<h1>What is a Methodology Anyway?</h1>
+<p>Much like a lab experiment you might have done in grade-school science class, a methodology specifies a detailed set of steps and procedures to reproduce a particular result.</p>
+<p>A carbon credit methodology will typically specify: - the <strong>applicability conditions</strong> under which the activity should take place - how to define the <strong>boundaries</strong> of a project - how to construct an appropriate <strong>baseline</strong> (i.e.&nbsp;demonstrate that the project activities actually make a difference relative to the status quo) - how to <strong>quantify the greenhouse gas emissions</strong> avoided or removed by the activity - how to <strong>monitor</strong> the project to ensure the intended results are realized</p>
+</section>
+<section id="status-quo-methodology-development" class="level1">
+<h1>Status Quo Methodology Development</h1>
+<p>The first verified carbon credit system, the <a href="https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism">Clean Development Mechanism</a>, was created 30 years ago under the Kyoto Protocol. Since then, the governance mechanisms for carbon credit standards have not changed much. In particular, they tend to favor opaque submission and review processes where most activities are carried out by permissioned insiders (e.g.&nbsp;staff at the standards body). While standards typically feature a public comment period in their methodology development process, the submitted comments are not published in full, and it is difficult to tell if issues that were raised have been properly addressed.</p>
+<section id="example-verras-verified-carbon-standard-vcs" class="level2">
+<h2 class="anchored" data-anchor-id="example-verras-verified-carbon-standard-vcs">Example: Verra’s Verified Carbon Standard (VCS)</h2>
+<p><a href="https://verra.org/">Verra</a> is a non-profit organization that manages several standards and programs for climate action and sustainable development, including the VCS Program, which is the world’s most widely used GHG crediting program. The VCS Program has issued over one billion carbon credits from thousands of projects in 80 countries.</p>
+<p>The VCS Program has its own methodologies that have been approved for use by Verra, as well as methodologies from other approved GHG programs, such as the Clean Development Mechanism (CDM) and the Climate Action Reserve (CAR). All methodologies undergo a <a href="https://verra.org/methodologies-main/develop-a-methodology/">review and consultation process</a> to ensure they meet the rules and requirements of the VCS Program.</p>
+<p>Verra periodically reviews VCS methodologies to ensure they continue to reflect best practices, scientific consensus, and evolving market conditions and technical developments in a sector.</p>
+<p>However, there is no standardized mechanism in the methodology governance process for deprecating an approved methodology if/when it reaches end-of-life - though, as we’ll see, several methodologies have been “phased out” ad hoc over the years.</p>
+</section>
+</section>
+<section id="cleaning-up-a-decade-old-mess" class="level1">
+<h1>Cleaning Up a Decade-Old Mess</h1>
+<p>During the joint launch of <a href="https://docs.toucan.earth/toucan/bridge/carbon-bridge">Toucan’s one-way carbon bridge</a> and <a href="https://klimadao.finance">KlimaDAO</a>, about 700,000 tonnes of carbon credits were bridged from the Verra registry issued under the AM0001 methodology for decomposition of HFC-23 (a byproduct from production of refrigerant).</p>
+<p>This particular <a href="https://cdm.unfccc.int/methodologies/DB/GAOZAY2DWIQHK71LJS027N6N4AV6SC">methodology was originally developed under the CDM</a>, and was carried forward into Verra’s VCS. However, in the wake of the Montreal Protocol, which established mandatory commitments at the national level for preventing emissions of hydroflourocarbons like HFC-23, Verra subsequently <a href="https://verra.org/phasing-out-hfc-23-projects/">ceased issuance of credits under any methodology related to HFC-23</a>.</p>
+<p>The HFC-23 methodology was also called into question because of concerns that some project developers were <a href="https://carbonbetter.com/story/additionality/">producing more refrigerant than they actually had buyers for, simply to issue carbon credits based on the decomposition of the HFC-23 byproduct</a>.</p>
+<p>After the methodology was discontinued by Verra, no steps were taken to address the millions of tonnes of credits which were issued under this methodology and remained on the books of many carbon market participants. This created ambiguity around the value of these assets, and led many in the carbon markets to conveniently forget about their existence. Nonetheless, for years after the deprecation of the methodology, transactions and retirements continued in the shadows of the over-the-counter (OTC) market.</p>
+<section id="leveraging-public-governance" class="level2">
+<h2 class="anchored" data-anchor-id="leveraging-public-governance">Leveraging Public Governance</h2>
+<p>This is a clear coordination failure: no new credits would be issued under the methodology, yet there was no mechanism to signal that the market had moved on from the existing credits and destroy them once and for all to prevent further use.</p>
+<p>Of course, Verra did not originate this methodology - it was originally developed under the CDM - but it did continue to allow retirement of these credits after ceasing issuance. Under its current Terms of Use, Verra lacks the ability to unilaterally destroy properly issued credits held by registry users, and registry users have no incentive to destroy their own assets.</p>
+<p>As the situation became clear to the KlimaDAO community, Toucan implemented a restriction on the BCT pool to prevent more HFC-23 credits from being added to the pool. However, just like the off-chain market, the Digital Carbon Market had now inherited a significant chunk of these credits.</p>
+</section>
+<section id="sorting-the-laundry" class="level2">
+<h2 class="anchored" data-anchor-id="sorting-the-laundry">Sorting the Laundry</h2>
+<p>Seeing this as an opportunity to exercise the unique advantages of KlimaDAO’s public governance mechanism, I helped conduct an investigation into the history and activity of these credits.</p>
+<p>On one hand, <a href="https://www.rff.org/publications/working-papers/the-net-emissions-impact-of-hfc-23-offset-projects-from-the-clean-development-mechanism/">academic research</a> indicated that some HFC-23 decomposition projects had been properly implemented, potentially even under-crediting - while other projects had engaged in deliberate over-creditng by producing more refrigerant than they would under a Business-As-Usual (BAU) scenario.</p>
+<p>However, based on the Verra <a href="https://registry.verra.org/app/search/VCS/VCUs">public registry data</a> on retirements, I found that credits from I found that this methodology had not been used for retirement in about 2 years.</p>
+<p>As such, the path forward was clear to me: even if the particular project whose credits ended up in the KlimaDAO treasury were from a project that did not abuse the system, and issued at a time when the methodology was still actively used for retirement, those credits were objectively no longer being used, and therefore did not warrant going inclusion in the digital carbon market.</p>
+<p>So I began to prepare a <a href="https://forum.klimadao.finance/d/115-kip-26a-hfc-23-cleanup-operation-with-additional-background">governance proposal</a> which would destroy all of the HFC-23 credits in the BCT pool. I also approached Toucan for assistance in the process, both in terms of capital to destroy the credits and a special function to allow burning of credits from the pool without paying the selective redemption fee.</p>
+<p>Several weeks later, <a href="https://snapshot.org/#/klimadao.eth/proposal/0x2ae3fce131f98bf22ec9ef306a13e359002eaea0d111328149204dfd9dc9b2e4">KLIMA token holders voted definitively to destroy the HFC-23 credits</a>.</p>
+</section>
+</section>
+<section id="murphys-law-for-methodologies" class="level1">
+<h1>Murphy’s Law for Methodologies</h1>
+<p>Based on this experience I propose a corollary of <a href="https://en.wikipedia.org/wiki/Murphy's_law">Murphy’s Law</a> for carbon credit methodologies:</p>
+<blockquote class="blockquote">
+<p>No methodology is perfect - therefore all methodologies will be criticized.</p>
+</blockquote>
+<p>Criticism and scrutiny is absolutely essential to progress this market and develop the most effective and impactful methodologies. But when that data-driven, scientific criticism is wrapped up into an overly simplistic narrative and shouted from the rootops, it can disrupt the market.</p>
+<p>Rather than abandoning a methodology wholesale based on simplistic narratives, the carbon market needs mechanisms to deliberately evolve over time. The goal should be to avoid disrupting project developers midflight, and prevent an inefficient race to the top of the price curve, which distorts the relationship between price, cost and efficiency.</p>
+<p>KlimaDAO established a precedent to maintain support for a given methodology until market participants have not utilized that asset for retirement purposes in years. As new supply comes online and KlimaDAO integrates that supply into its ecosystem and treasury, the HFC-23 situation provides an example of progressively improving the carbon markets using public governance.</p>
+</section>
+<section id="reflecting-on-the-hfc-23-situation" class="level1">
+<h1>Reflecting on the HFC-23 situation</h1>
+<p>In a perfect world, could the KlimaDAO and Toucan teams have known about the HFC-23 credits and designed the BCT pool criteria to prevent them from entering in the first place? Sure. But would this have prevented criticism of other methodologies? Certainly not.</p>
+<p>Whether the methodology is HFC-23 decomposition or renewable energy based credits, REDD+ avoided deforestation or improved cookstoves, all methodologies should and will be subject to criticism so they can improve over time. This is a feature of the open, public nature of environmental assets - not a bug.</p>
+<p>However, there is a bug in our social infrastructure: careful, data-driven scientific criticism is undermined by academia’s “publish or perish” incentive structure, leading to click-baity journal titles like <a href="https://www.researchgate.net/publication/368760959_Cooking_the_books_Pervasive_over-crediting_from_cookstoves_offset_methodologies">“Cooking the books”</a>. These articles are then blindly picked up by media outlets, which have an incentive to generate impressions rather than foster nuanced understanding.</p>
+<p>In this case of this cookstoves article, the authors misleadingly emphasize the overcrediting associated with the oldest CDM cookstove methodology, which very few new projects are deploying, while their detailed analysis indicates that some of the new cookstove methodologies may actually be issuing <em>fewer</em> credits than tonnes of carbon dioxide actually avoided. Instead of emphasizing that methodologies in this high-impact sector have gradually improved over time, the authors emphasize problems with the oldest version of this methodology.</p>
+<p>This dynamic places project developers, the people on the ground doing the work, in a very precarious position: raising capital to take on a multi-year project, while having to constantly worry that the next media takedown will be about the methodology they have adopted. It also leads to hesitation among the end users who retire carbon credits, since they can never be sure when the projects they choose to support will be called into question.</p>
+<p>This counterproductive dynamic is a problem of incentive alignment. Public governance mechanisms for environmental markets, such as that pioneered by KlimaDAO in the Digital Carbon Market, can align the incentives of diverse market actors. There is an opportunity to build more robust mechanisms for governing the lifecyle of methodologies, which will ensure the market can move on from particular methodologies through a more deliberate and decisive process.</p>
+</section>
+<section id="signs-of-life" class="level1">
+<h1>Signs of Life</h1>
+<p>As evidence of the need for an end-of-life governance mechanism, several <a href="https://www.qcintel.com/carbon/article/us-hfc-and-southeast-asian-redd-credits-trade-15918.html">transactions of HFC-23 decomposition credits</a> were recently observed once again. Despite the long controversy, with arguments for and against going back and forth for over a decade, the market has not moved on from this methodology.</p>
+<p>Since April of 2023, almost 30,000 tonnes of credits from an HFC-23 project have been retired in the Verra registry: [./recent-hfc23-retirements.png]</p>
+<p>While these credits are from one of the projects which operated in good faith and did not abuse the system to overissue credits, the fact remains that this methodology has been subjected to extensive criticism, and yet no mechanism was deployed by the incumbent VCM participants to exclude the existing credits issued under this methodology from the market - unlike the DCM, which has used public governance to remove these credits from the market.</p>
+</section>
+<section id="setting-a-floor" class="level1">
+<h1>Setting a Floor?</h1>
+<p>There is much fanfare over the recent release of the Core Carbon Principles (CCPs) from the Integrity Council for the Voluntary Carbon Market. The hope is that this initiative will establish a clear floor for what defines a “high quality” carbon project. The ICVCM has only <a href="https://twitter.com/ic_vcm/status/1686015987269742592">just begun accepting applications on August 1st, 2023</a> for CCP labeling, with the first labels <a href="https://twitter.com/ic_vcm/status/1686015987269742592">expected to be given out by end of year</a>. It remains to be seen how the implementation of these unobjectionable, broadly accepted principles will be interpreted by the market, and by the media.</p>
+<p>But if Murphy’s Law for Methodologies holds, then there will in future be specific issues raised through the normal process of scientific inquiry and consensus forming that undermines the integrity of a particular methodology. And so the CCPs themselves will need a mechanism for evolving over time to reflect that latest scientific consensus, which means they will likely need a mechanism for revoking a CCP label - an analogous problem to methodology deprecation as explored here.</p>
+</section>
+<section id="the-role-of-public-governance" class="level1">
+<h1>The Role of Public Governance</h1>
+<p>Unlike the methodology approval or CCP label application process, it is critical that the end-of-life process for methodologies is public. Various stakeholders, from end-users to traders to project developers and carbon experts, must align their incentives through a deliberate governance process to help the market move on. The mud-slinging which has characterized discussions around specific methodologies to date undermines public confidence in the fundamental premise of environmental markets, which doesn’t help any of the market participants, nor does it lead to scalable, high-integrity climate action.</p>
+<p>Token-based governance, as used by KlimaDAO’s community to destroy the HFC-23 credits present in the DCM, is by no means perfect. There are a variety of problems to be solved, such as mitigating the role of whales and increasing community engagement, but it does demonstrates what is possible when incentives are aligned.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>governance</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/methodology-lifecycle/index.html</guid>
+  <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/methodology-lifecycle/landscape.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Scaling Climate Action with Blockchain Technology @ EthCC 2023</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/ethcc-23/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=YeSn_-aWfCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<p>EthCC is one of the largest annual Ethereum conferences, and it was a joy to be back in Paris again to share the latest developments in the Digital Carbon Market.</p>
+<p>I spoke toward the end of a set of a back-to-back talks from different projects applying blockchain to carbon markets. Many of the speakers before me had broad sweeping presentations, attempting to communicate a massive amount of information using dense slides and broad sweeping narratives. This led someone in the audience to ask the same question at the end of each talk: “What have you actually delivered to date?”</p>
+<p>Having learned the perils of dense, text-heavy slides from <a href="https://www.youtube.com/watch?v=Unzc731iCUY">this excellent talk about how to speak</a>, I made sure my slides had the minimum text necessary, and I emphasized just a few key takeaways. Thankfully KlimaDAO has plenty of live, production systems to highlight, and I’ve explained the basics of carbon markets so often that I was able to keep my messaging very simple.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/ethcc-23/index.html</guid>
+  <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/ethcc-23/video-grab.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+<item>
+  <title>Bootstrapping Impact Markets @ ETHPrague 2023</title>
+  <dc:creator>Marcus Aurelius</dc:creator>
+  <link>https://www.marcus.limo/posts/eth-prague-23/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=84mcr0M_a7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+</iframe>
+<p>It was a joy to visit the beautiful city of Prague and speak at the historic <a href="https://www.paralelnipolis.cz/en/o-nas/en/">Paralelni Polis</a>. ETHPrague brought together some of the sharpest minds in Ethereum, open-source software and distributed computing, alongside solarpunks and the ReFi community.</p>
+<p>There is growing excitement about new environmental assets that fund impact “beyond just carbon.” However, after about 30 years since the first voluntary carbon market, <a href="https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism">the Clean Development Mechanism (CDM), was created under the Kyoto Protocol</a>, carbon markets themselves are still quite immature, and there are plenty of lessons to learn from their development thus far.</p>
+<p>In this talk, I go over the basic structure of impact markets, discuss how carbon markets implement that structure, and some insights about how to bootstrap new impact markets.</p>
+<p>I specifically highlight the tension between liquidity and fungibility for building scalable markets. Since a given environmental project will only create a certain number of impact certficates, the number of comparable assets may be quite small, which limits liquidity.</p>
+<p>However, deep liquidity is necessary to support sophisticated financial instruments (e.g.&nbsp;forward funding, insurance). Given the high up-front funding requirements for environmental impact projects, spot liquidity is critical to ensure project developers and financiers have reliable prices to discount against.</p>
+<p>I also highlight the ongoing work at KlimaDAO to bootstrap new strata in the digital carbon market by forward funding carbon projects using treasury capital, then once those credits are delivered, deploying a new liquidity pool that prices that type of project. For instance, KlimaDAO funded a <a href="https://forum.klimadao.finance/d/139-kip-32-starcb-eeimp-project/8">cookstove project in a refugee camp in Bangladesh</a> under the Gold Standard, and a <a href="https://forum.klimadao.finance/d/202-kip-34-aither-arbo-eligible-carbon-project-opportunity/11">forestry project in Africa</a> under Verra’s Verified Carbon Standard. Upon delivery, proposals will be advanced to use these credits to create a spot liquidity pool for the EEIMP (small scale energy efficiency) and ARBO (afforestation and reforestation) carbon pools proposed by KlimaDAO’s bridging partner C3.</p>
+<p>These new liquidity pools will then provide real-time pricing data for spot credits of those types, so that financiers and project developers can negotiate forward funding for new, similar carbon projects on a level playing field. Project developers will also be able to access liquidity immediately upon delivery, rather than waiting to offload their credits to a buyer.</p>
+
+
+
+ ]]></description>
+  <category>speaking</category>
+  <category>presentations</category>
+  <category>klimadao</category>
+  <guid>https://www.marcus.limo/posts/eth-prague-23/index.html</guid>
+  <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://www.marcus.limo/posts/eth-prague-23/video-grab.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
 <item>
   <title>NYU Sustainable Travel &amp; Tourism Seminar: Monitoring &amp; Evaluation</title>
   <dc:creator>Marcus Aurelius</dc:creator>

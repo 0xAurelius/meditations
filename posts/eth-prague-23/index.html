@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Marcus Aurelius">
-<meta name="dcterms.date" content="2023-04-13">
+<meta name="dcterms.date" content="2023-06-10">
 
-<title>Marcus Aurelius - Toward an Open Data Standard for Environmental Assets @ Sustainable Blockchain Summit 2023 in Boston</title>
+<title>Marcus Aurelius - Bootstrapping Impact Markets @ ETHPrague 2023</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,14 +67,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Marcus Aurelius - Toward an Open Data Standard for Environmental Assets @ Sustainable Blockchain Summit 2023 in Boston">
+<meta property="og:title" content="Marcus Aurelius - Bootstrapping Impact Markets @ ETHPrague 2023">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://www.marcus.limo/posts/sbs-boston/video-grab.jpg">
+<meta property="og:image" content="https://www.marcus.limo/posts/eth-prague-23/video-grab.png">
 <meta property="og:site-name" content="Marcus Aurelius | Meditations">
-<meta name="twitter:title" content="Marcus Aurelius - Toward an Open Data Standard for Environmental Assets @ Sustainable Blockchain Summit 2023 in Boston">
+<meta property="og:image:height" content="838">
+<meta property="og:image:width" content="1674">
+<meta name="twitter:title" content="Marcus Aurelius - Bootstrapping Impact Markets @ ETHPrague 2023">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://www.marcus.limo/posts/sbs-boston/video-grab.jpg">
+<meta name="twitter:image" content="https://www.marcus.limo/posts/eth-prague-23/video-grab.png">
 <meta name="twitter:creator" content="@0xKlimaurelius">
+<meta name="twitter:image-height" content="838">
+<meta name="twitter:image-width" content="1674">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -135,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Toward an Open Data Standard for Environmental Assets @ Sustainable Blockchain Summit 2023 in Boston</h1>
+      <h1 class="title">Bootstrapping Impact Markets @ ETHPrague 2023</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">speaking</div>
                 <div class="quarto-category">presentations</div>
@@ -157,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">April 13, 2023</p>
+        <p class="date">June 10, 2023</p>
       </div>
     </div>
     
@@ -175,13 +179,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/2GHNhknh2oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=84mcr0M_a7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
 </iframe>
-<p>Now that I’ve been working with carbon credit data for a couple of years, it seems to me that the incumbent players like Verra have no incentive to make their data easily available and interoperable. While this data is ostensibly public, their terms of service are pretty vague about what constitutes appropriate use, and without the project data then claims about the underlying activity are impossible to verify. As the number of credit issuance systems increases, and interoperable public infrastructure like the KlimaDAO retirement aggregator are built to seamlessly integrate different types of credits, it is critically important that project and issuance data from the registries is made publicly available in an efficient and standardized manner.</p>
-<p>In this talk, I basically invoke this xkcd comic to point out that we need a unified, open data standard for carbon credits:</p>
-<p><a href="How Standards Proliferate">https://imgs.xkcd.com/comics/standards.png</a></p>
-<p>To flesh out my point, I lay out some of the limitations of the current registry-specific data models, reference some existing frameworks such as the UN SDGs and Planetary Boundaries, as well as point toward ongoing initiatives like the Ecological Benefits Frame Activator (of which I am a participant) and the <a href="https://climateactiondata.org/about/">Climate Action Data Trust</a> (in whose user forum KlimaDAO has applied to participate).</p>
-<p>Finally, I provide an overview of the phased approach that KlimaDAO is taking to integrate carbon credit registry data given our need to ship products that work today, while preparing for a future where there are many more systems to integrate with and (hopefully) a standardized data model toward which to migrate.</p>
+<p>It was a joy to visit the beautiful city of Prague and speak at the historic <a href="https://www.paralelnipolis.cz/en/o-nas/en/">Paralelni Polis</a>. ETHPrague brought together some of the sharpest minds in Ethereum, open-source software and distributed computing, alongside solarpunks and the ReFi community.</p>
+<p>There is growing excitement about new environmental assets that fund impact “beyond just carbon.” However, after about 30 years since the first voluntary carbon market, <a href="https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism">the Clean Development Mechanism (CDM), was created under the Kyoto Protocol</a>, carbon markets themselves are still quite immature, and there are plenty of lessons to learn from their development thus far.</p>
+<p>In this talk, I go over the basic structure of impact markets, discuss how carbon markets implement that structure, and some insights about how to bootstrap new impact markets.</p>
+<p>I specifically highlight the tension between liquidity and fungibility for building scalable markets. Since a given environmental project will only create a certain number of impact certficates, the number of comparable assets may be quite small, which limits liquidity.</p>
+<p>However, deep liquidity is necessary to support sophisticated financial instruments (e.g.&nbsp;forward funding, insurance). Given the high up-front funding requirements for environmental impact projects, spot liquidity is critical to ensure project developers and financiers have reliable prices to discount against.</p>
+<p>I also highlight the ongoing work at KlimaDAO to bootstrap new strata in the digital carbon market by forward funding carbon projects using treasury capital, then once those credits are delivered, deploying a new liquidity pool that prices that type of project. For instance, KlimaDAO funded a <a href="https://forum.klimadao.finance/d/139-kip-32-starcb-eeimp-project/8">cookstove project in a refugee camp in Bangladesh</a> under the Gold Standard, and a <a href="https://forum.klimadao.finance/d/202-kip-34-aither-arbo-eligible-carbon-project-opportunity/11">forestry project in Africa</a> under Verra’s Verified Carbon Standard. Upon delivery, proposals will be advanced to use these credits to create a spot liquidity pool for the EEIMP (small scale energy efficiency) and ARBO (afforestation and reforestation) carbon pools proposed by KlimaDAO’s bridging partner C3.</p>
+<p>These new liquidity pools will then provide real-time pricing data for spot credits of those types, so that financiers and project developers can negotiate forward funding for new, similar carbon projects on a level playing field. Project developers will also be able to access liquidity immediately upon delivery, rather than waiting to offload their credits to a buyer.</p>
 
 
 
