@@ -1,0 +1,21 @@
+---
+title: "Scaling Climate Action with Blockchain Technology @ EthCC 2023"
+author: "Marcus Aurelius"
+date: "2023-07-18"
+categories: [speaking, presentations, klimadao]
+image: "video-grab.png"
+---
+
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=YeSn_-aWfCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+EthCC is one of the largest annual Ethereum conferences, and it was a joy to be back in Paris again to share
+the latest developments in the Digital Carbon Market. 
+
+I spoke toward the end of a set of a back-to-back talks from different projects applying blockchain to carbon markets. Many of
+the speakers before me had broad sweeping presentations, attempting to communicate a massive amount of information using dense slides and broad sweeping narratives.
+This led someone in the audience to ask the same question at the end of each talk: "What have you actually delivered to date?"
+
+Having learned the perils of dense, text-heavy slides from [this excellent talk about how to speak](https://www.youtube.com/watch?v=Unzc731iCUY), 
+I made sure my slides had the minimum text necessary, and I emphasized just a few key takeaways.
+Thankfully KlimaDAO has plenty of live, production systems to highlight, and I've explained the basics of
+carbon markets so often that I was able to keep my messaging very simple.
