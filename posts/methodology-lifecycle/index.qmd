@@ -210,7 +210,7 @@ for and against going back and forth for over a decade, the market has not moved
 on from this methodology.
 
 Since April of 2023, almost 30,000 tonnes of credits from an HFC-23 project have
-been retired in the Verra registry:
+been retired in the [Verra registry](https://registry.verra.org/app/search/VCS/VCUs):
 
 ![Screenshot of Verra registry retirements of HFC-23 credits](./recent-hfc23-retirements.png)
 
