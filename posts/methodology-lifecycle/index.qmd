@@ -1,7 +1,7 @@
 ---
 title: "Methodology Lifecycle Governance for Environmental Assets"
 author: "Marcus Aurelius"
-date: "2023-07-23"
+date: "2023-08-09"
 categories: [governance, klimadao]
 image: "landscape.jpg"
 ---
@@ -59,6 +59,11 @@ process](https://verra.org/methodologies-main/develop-a-methodology/) to ensure 
 Verra periodically reviews VCS methodologies to ensure they continue to reflect best practices, 
 scientific consensus, and evolving market conditions and technical developments in 
 a sector.
+
+However, there is no standardized mechanism in the methodology governance process
+for deprecating an approved methodology if/when it reaches end-of-life - 
+though, as we'll see, several methodologies have been "phased out" ad hoc over
+the years.
 
 # Cleaning Up a Decade-Old Mess
 
@@ -123,10 +128,11 @@ and issued at a time when the methodology was still actively used for retirement
 those credits were objectively no longer being used, and therefore did not warrant going inclusion
 in the digital carbon market.
 
-So I began to prepare a governance proposal which would destroy all of the HFC-23
-credits in the BCT pool. I also approached Toucan for assistance in the process,
-both in terms of capital to destroy the credits and a special function to allow
-burning of credits from the pool without paying the selective redemption fee.
+So I began to prepare a [governance proposal](https://forum.klimadao.finance/d/115-kip-26a-hfc-23-cleanup-operation-with-additional-background)
+which would destroy all of the HFC-23 credits in the BCT pool. I also approached
+Toucan for assistance in the process, both in terms of capital to destroy 
+the credits and a special function to allow burning of credits from the pool 
+without paying the selective redemption fee.
 
 Several weeks later, [KLIMA token holders voted definitively to destroy the HFC-23 credits](https://snapshot.org/#/klimadao.eth/proposal/0x2ae3fce131f98bf22ec9ef306a13e359002eaea0d111328149204dfd9dc9b2e4).
 
@@ -153,3 +159,96 @@ market participants have not utilized that asset for retirement purposes in year
 As new supply comes online and KlimaDAO integrates that supply into its ecosystem and treasury,
 the HFC-23 situation provides an example of progressively improving the carbon
 markets using public governance.
+
+# Reflecting on the HFC-23 situation
+
+In a perfect world, could the KlimaDAO and Toucan teams have known about 
+the HFC-23 credits and designed the BCT pool criteria to prevent them 
+from entering in the first place? Sure. But would this have prevented
+criticism of other methodologies? Certainly not.
+
+Whether the methodology is HFC-23 decomposition or renewable energy based credits, 
+REDD+ avoided deforestation or improved cookstoves, all methodologies
+should and will be subject to criticism so they can improve over time. This
+is a feature of the open, public nature of environmental assets - not a bug.
+
+However, there is a bug in our social infrastructure: careful, data-driven
+scientific criticism is undermined by academia's "publish or perish" incentive
+structure, leading to click-baity journal titles like ["Cooking the books"](https://www.researchgate.net/publication/368760959_Cooking_the_books_Pervasive_over-crediting_from_cookstoves_offset_methodologies). 
+These articles are then blindly picked up by media outlets, which have an 
+incentive to generate impressions rather than foster nuanced understanding.
+
+In this case of this cookstoves article, the authors misleadingly emphasize the
+overcrediting associated with the oldest CDM cookstove methodology, which very
+few new projects are deploying, while their detailed analysis indicates that
+some of the new cookstove methodologies may actually be issuing _fewer_
+credits than tonnes of carbon dioxide actually avoided. Instead of emphasizing
+that methodologies in this high-impact sector have gradually improved over time, 
+the authors emphasize problems with the oldest version of this methodology. 
+
+This dynamic places project developers, the people on the ground doing the work,
+in a very precarious position: raising capital to take on a multi-year project,
+while having to constantly worry that the next media takedown will be about 
+the methodology they have adopted. It also leads to hesitation among the end users
+who retire carbon credits, since they can never be sure when the projects they 
+choose to support will be called into question.
+
+This counterproductive dynamic is a problem of incentive alignment. Public
+governance mechanisms for environmental markets, such as that pioneered by 
+KlimaDAO in the Digital Carbon Market, can align the incentives of diverse 
+market actors. There is an opportunity to build more robust mechanisms 
+for governing the lifecyle of methodologies, which will ensure the market
+can move on from particular methodologies through a more deliberate and 
+decisive process.
+
+# Signs of Life
+
+As evidence of the need for an end-of-life governance mechanism, several 
+[transactions of HFC-23 decomposition credits](https://www.qcintel.com/carbon/article/us-hfc-and-southeast-asian-redd-credits-trade-15918.html) 
+were recently observed once again. Despite the long controversy, with arguments
+for and against going back and forth for over a decade, the market has not moved
+on from this methodology.
+
+Since April of 2023, almost 30,000 tonnes of credits from an HFC-23 project have
+been retired in the Verra registry:
+![./recent-hfc23-retirements.png]
+
+While these credits are from one of the projects which operated in good faith
+and did not abuse the system to overissue credits, the fact remains that this
+methodology has been subjected to extensive criticism, and yet no mechanism 
+was deployed by the incumbent VCM participants to exclude the existing credits
+issued under this methodology from the market - unlike the DCM, which has used
+public governance to remove these credits from the market.
+
+# Setting a Floor?
+
+There is much fanfare over the recent release of the Core Carbon Principles (CCPs)
+from the Integrity Council for the Voluntary Carbon Market. The hope is that this
+initiative will establish a clear floor for what defines a "high quality" carbon 
+project. The ICVCM has only [just begun accepting applications on August 1st, 2023](https://twitter.com/ic_vcm/status/1686015987269742592) 
+for CCP labeling, with the first labels [expected to be given out by end of year](https://twitter.com/ic_vcm/status/1686015987269742592).
+It remains to be seen how the implementation of these unobjectionable, broadly accepted
+principles will be interpreted by the market, and by the media.
+
+But if Murphy's Law for Methodologies holds, then there will in future be specific
+issues raised through the normal process of scientific inquiry and consensus forming
+that undermines the integrity of a particular methodology. And so the CCPs themselves
+will need a mechanism for evolving over time to reflect that latest scientific
+consensus, which means they will likely need a mechanism for revoking a CCP label - 
+an analogous problem to methodology deprecation as explored here. 
+
+# The Role of Public Governance
+
+Unlike the methodology approval or CCP label application process, it is critical that
+the end-of-life process for methodologies is public. Various stakeholders, from end-users
+to traders to project developers and carbon experts, must align their incentives
+through a deliberate governance process to help the market move on. 
+The mud-slinging which has characterized discussions around specific methodologies 
+to date undermines public confidence in the fundamental premise of environmental markets,
+which doesn't help any of the market participants, nor does it lead to scalable,
+high-integrity climate action.  
+
+Token-based governance, as used by KlimaDAO's community to destroy the HFC-23 credits
+present in the DCM, is by no means perfect. There are a variety of problems to be solved,
+such as mitigating the role of whales and increasing community engagement, but it does
+demonstrates what is possible when incentives are aligned.
