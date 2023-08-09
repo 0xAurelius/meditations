@@ -211,7 +211,8 @@ on from this methodology.
 
 Since April of 2023, almost 30,000 tonnes of credits from an HFC-23 project have
 been retired in the Verra registry:
-![./recent-hfc23-retirements.png]
+
+![Screenshot of Verra registry retirements of HFC-23 credits](./recent-hfc23-retirements.png)
 
 While these credits are from one of the projects which operated in good faith
 and did not abuse the system to overissue credits, the fact remains that this
